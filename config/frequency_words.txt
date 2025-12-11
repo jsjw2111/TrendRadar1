@@ -1,5 +1,4 @@
 DeepSeek
-梁文锋
 
 谷歌
 google
@@ -7,6 +6,22 @@ gemini
 
 chatgpt
 openai
+
+AI编程
+
+ai
+
+股市内情
+
+投资理财
+
+经营
+
+企业规划
+
+人生规划
+
+程序员
 
 金价
 
