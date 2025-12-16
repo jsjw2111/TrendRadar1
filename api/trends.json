@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T22:29:53.637139+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-12-16T23:29:32.640391+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时35分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[13时35分 ~ 23时29分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时35分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[13时35分 ~ 23时29分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -50,6 +52,18 @@
           "time_info": "[13时35分 ~ 20时54分]"
         },
         {
+          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
+          "url": "https://www.cls.cn/detail/2231043",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时29分]"
+        },
+        {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
           "url": "https://www.cls.cn/detail/2230375",
           "source": "财联社热门",
@@ -59,18 +73,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时35分 ~ 15时27分]"
-        },
-        {
-          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
-          "url": "https://www.cls.cn/detail/2231043",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时29分]"
         },
         {
           "title": "华尔街传来预警：AI繁荣将在明年“衰落”，标普500料大跌超20%！",
@@ -102,11 +104,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时41分 ~ 22时29分]"
+          "appearance_count": 4,
+          "time_info": "[21时41分 ~ 23时29分]"
         },
         {
           "title": "未来的AI Agent会是什么样",
@@ -332,7 +335,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         }
