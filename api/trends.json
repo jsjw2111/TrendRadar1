@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:37:16.998629+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2025-12-17T22:28:25.341690+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -62,6 +62,17 @@
           "time_info": "[11时24分 ~ 15时27分]"
         },
         {
+          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
+          "url": "https://wallstreetcn.com/livenews/3022466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "虞书欣ThaiMu",
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -111,6 +122,17 @@
           "time_info": "[06时23分 ~ 07时24分]"
         },
         {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时28分]"
+        },
+        {
           "title": "协创数据：拟在广州开发区，投资光芯片、光模块研发和生产建设项目,主要从事利用自主芯片研发超低功耗光模块，适配AI算力中心、超算中心等高端场景业务。",
           "url": "https://wallstreetcn.com/livenews/3022345",
           "source": "华尔街见闻-快讯",
@@ -144,17 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时23分]"
-        },
-        {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "即梦AI上新，支持声音、画面同步生成",
@@ -261,7 +272,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -330,6 +341,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "OpenAI：为新闻机构推出OpenAI学院（OPENAI Academy），在未来的计划中，将与更多新闻机构和行业合作伙伴合作，以扩展学院。",
+          "url": "https://flash.jin10.com/detail/20251217220433800800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
@@ -479,8 +512,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 21时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 22时28分]"
         }
       ]
     }
