@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:25:20.543062+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-12-21T19:20:20.734901+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -48,21 +48,6 @@
           "time_info": "[10时03分 ~ 18时25分]"
         },
         {
-          "title": "中信建投：继续看好AI算力板块",
-          "url": "https://wallstreetcn.com/livenews/3024316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            20,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 18时25分]"
-        },
-        {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
           "url": "https://wallstreetcn.com/articles/3761783",
           "source": "华尔街见闻",
@@ -74,8 +59,24 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 18时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 19时20分]"
+        },
+        {
+          "title": "中信建投：继续看好AI算力板块",
+          "url": "https://wallstreetcn.com/livenews/3024316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            20,
+            11,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 19时20分]"
         },
         {
           "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
@@ -104,11 +105,37 @@
             22,
             28,
             18,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时31分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[02时31分 ~ 19时20分]"
+        },
+        {
+          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
+          "url": "https://www.toutiao.com/trending/7585558853728190474/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 19时20分]"
+        },
+        {
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 19时20分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣系AI生成",
@@ -117,17 +144,6 @@
           "ranks": [
             29,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 18时25分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
-          "url": "https://www.toutiao.com/trending/7585558853728190474/",
-          "source": "今日头条",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -146,19 +162,6 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时25分 ~ 18时25分]"
-        },
-        {
           "title": "澎湃AI晚新闻丨2025年12月20日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
           "source": "澎湃新闻",
@@ -168,8 +171,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 19时20分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -197,6 +200,17 @@
           "time_info": "[16时31分 ~ 18时25分]"
         },
         {
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时20分]"
+        },
+        {
           "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
           "url": "https://wallstreetcn.com/livenews/3024347",
           "source": "华尔街见闻-快讯",
@@ -207,17 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 12时02分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时25分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -415,11 +418,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时20分]"
         }
       ]
     }
