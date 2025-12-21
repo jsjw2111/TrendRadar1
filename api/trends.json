@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T03:19:37.565067+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-12-22T04:26:54.194190+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "挑战复刻AI可食用岩浆",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -69,11 +69,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时26分]"
         }
       ]
     },
@@ -87,11 +88,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -102,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时26分]"
         }
       ]
     },
@@ -120,8 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "西安一私人影院涉黄 4经营者被刑拘",
@@ -149,8 +151,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     },
@@ -167,8 +169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     },
@@ -185,8 +187,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     }
