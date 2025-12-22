@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T21:38:13.022678+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2025-12-22T22:26:33.996836+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时28分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[15时28分 ~ 22时26分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -105,11 +105,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时38分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时26分]"
         },
         {
           "title": "AI定格|2025·强国脉动",
@@ -119,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时26分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -161,6 +162,18 @@
           "time_info": "[12时06分 ~ 16时36分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2025年12月21日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225231",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时51分 ~ 22时26分]"
+        },
+        {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
@@ -183,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 18时28分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2025年12月21日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225231",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 21时38分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
