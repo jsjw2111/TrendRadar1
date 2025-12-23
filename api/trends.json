@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T04:28:21.516109+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2025-12-24T05:23:57.295761+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "金价",
@@ -36,11 +36,12 @@
           "source": "微博",
           "ranks": [
             26,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -67,11 +68,12 @@
             30,
             20,
             9,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 05时23分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
@@ -111,8 +113,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "深圳个人经营贷利率低至2.35%，仍低于1年期LPR65个基点",
@@ -137,11 +139,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 05时23分]"
         }
       ]
     }
