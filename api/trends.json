@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T02:37:23.979300+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-12-24T03:21:07.704566+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -27,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -77,11 +77,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 03时21分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
@@ -108,8 +109,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "深圳个人经营贷利率低至2.35%，仍低于1年期LPR65个基点",
@@ -121,6 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
+          "url": "https://wallstreetcn.com/livenews/3025735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     }
