@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:40:03.683056+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2025-12-24T15:28:25.739612+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -79,7 +79,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -93,12 +93,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "颜如晶的24小时AI私教有多香",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%A6%82%E6%99%B6%E7%9A%8424%E5%B0%8F%E6%97%B6AI%E7%A7%81%E6%95%99%E6%9C%89%E5%A4%9A%E9%A6%99%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -147,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时56分 ~ 11时28分]"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）上海金午盘价为1008.94元/克，较国际金价(1012.11元/克)，低3.17元/克",
+          "url": "https://flash.jin10.com/detail/20251224150502225800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
