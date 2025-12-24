@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T11:28:25.730522+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2025-12-24T12:39:49.965058+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -49,6 +49,17 @@
           "time_info": "[00时33分 ~ 02时37分]"
         },
         {
+          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
+          "url": "https://www.zhihu.com/question/1986826913436680279",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
           "url": "https://www.zhihu.com/question/1985979705279673214",
           "source": "知乎",
@@ -66,7 +77,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
