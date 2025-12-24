@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T13:28:44.989227+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-12-24T14:40:03.683056+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -54,11 +54,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时40分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
@@ -70,6 +71,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
+          "url": "https://flash.jin10.com/detail/20251224133230351800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "韩国产业通商资源部周三表示，政府明年将投入7000亿韩元（约合4.78亿美元）用于支持制造业人工智能（AI）转型项目，包括开发设备端人工智能芯片和出口人工智能工厂。",
@@ -233,11 +245,12 @@
           "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时40分]"
         }
       ]
     }
