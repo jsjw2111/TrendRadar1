@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T04:28:24.869293+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-12-26T05:23:20.207395+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -47,11 +47,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -81,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     },
@@ -98,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     },
@@ -116,8 +117,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     },
@@ -133,11 +134,12 @@
             14,
             21,
             20,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     }
