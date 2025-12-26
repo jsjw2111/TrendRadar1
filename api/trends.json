@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T16:34:05.084512+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-12-26T17:28:11.058466+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             22,
             23,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 17时28分]"
         },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -61,11 +62,12 @@
             26,
             10,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 17时28分]"
         },
         {
           "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
@@ -80,6 +82,18 @@
           "time_info": "[15时26分 ~ 16时34分]"
         },
         {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时28分]"
+        },
+        {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
           "url": "https://www.zhihu.com/question/1987780060753719586",
           "source": "知乎",
@@ -90,6 +104,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时38分 ~ 15时26分]"
+        },
+        {
+          "title": "UP主用AI挑战肉鸽游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时28分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -116,28 +142,6 @@
           "time_info": "[16时33分 ~ 16时34分]"
         },
         {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "UP主用AI挑战肉鸽游戏",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
           "url": "https://flash.jin10.com/detail/20251226064520664800",
           "source": "金十数据",
@@ -155,6 +159,21 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 17时28分]"
+        },
+        {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
@@ -169,21 +188,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时24分]"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 16时34分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
@@ -263,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 17时28分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -308,8 +312,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 17时28分]"
         }
       ]
     },
