@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T05:22:30.116207+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-12-27T06:24:05.386099+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -29,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -39,11 +39,12 @@
           "ranks": [
             22,
             21,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "科研创新 idea 要不要告诉 AI?",
@@ -55,19 +56,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[03时19分 ~ 06时24分]"
         },
         {
           "title": "2025年度AI好用工具",
           "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 06时24分]"
         }
       ]
     },
@@ -84,8 +86,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时24分]"
         }
       ]
     }
