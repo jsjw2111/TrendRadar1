@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T09:55:20.652898+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2025-12-27T11:27:17.679533+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -16,21 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 09时55分]"
-        },
-        {
-          "title": "174名北大学生迎特殊考试：对决AI",
-          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时27分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -45,8 +32,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 11时27分]"
+        },
+        {
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 13,
-          "time_info": "[00时29分 ~ 09时55分]"
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "科研创新 idea 要不要告诉 AI?",
@@ -70,11 +70,12 @@
             29,
             24,
             13,
-            28
+            28,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 09时55分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 11时27分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -87,6 +88,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时55分]"
+        },
+        {
+          "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
+          "url": "https://wallstreetcn.com/livenews/3027520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "华为悬赏300万元求解AI难题",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3AI%E9%9A%BE%E9%A2%98%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
