@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T12:10:27.532893+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-12-28T13:29:02.923759+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -26,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 13时29分]"
         },
         {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
@@ -39,11 +40,23 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时29分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时29分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
@@ -63,7 +76,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
@@ -80,7 +93,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
