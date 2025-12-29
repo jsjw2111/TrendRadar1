@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:24:05.915463+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-29T20:54:35.521605+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
             10,
             12,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时54分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -248,7 +249,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -256,11 +257,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时54分]"
+        },
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
@@ -308,11 +321,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%A9%B4%E8%82%89%E7%81%AB%E7%83%A7%E6%8E%BA%E9%A9%AC%E8%82%89+%E4%B8%A4%E7%BB%8F%E8%90%A5%E8%80%85%E8%8E%B7%E5%88%91",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时54分]"
         }
       ]
     }
