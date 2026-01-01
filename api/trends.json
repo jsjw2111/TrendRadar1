@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T03:20:53.774402+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-01-02T04:29:22.316411+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -25,11 +25,12 @@
           "ranks": [
             11,
             15,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -80,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -89,11 +90,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -102,11 +104,12 @@
           "ranks": [
             20,
             17,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         }
       ]
     },
@@ -121,11 +124,12 @@
           "ranks": [
             8,
             12,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
