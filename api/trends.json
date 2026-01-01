@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-01T12:12:31.555795+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-01-01T13:32:16.677644+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "AI魔改翻车!广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
+        },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
@@ -42,15 +54,39 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
-          "title": "AI魔改翻车!广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
+          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
+          "url": "https://wallstreetcn.com/articles/3762372",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
+        },
+        {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -66,6 +102,17 @@
           "time_info": "[04时28分 ~ 06时25分]"
         },
         {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时32分]"
+        },
+        {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
           "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
           "source": "澎湃新闻",
@@ -78,49 +125,15 @@
           "time_info": "[06时25分 ~ 10时09分]"
         },
         {
-          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
-          "url": "https://wallstreetcn.com/articles/3762372",
-          "source": "华尔街见闻",
+          "title": "玲音Lain OST原唱入驻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B2%E9%9F%B3Lain%20OST%E5%8E%9F%E5%94%B1%E5%85%A5%E9%A9%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时12分]"
-        },
-        {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时12分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.toutiao.com/trending/7589768798652514310/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时12分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "宇树人形机器人回应AI是否存在泡沫",
@@ -129,7 +142,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -201,8 +214,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 13时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "海南自贸港封关以来新增经营主体近1.2万家",
+          "url": "https://flash.jin10.com/detail/20260101123919144800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
