@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T17:30:00.385080+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-01-02T18:27:23.824614+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 17时30分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 18时27分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 17时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 18时27分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 17时30分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 18时27分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -58,8 +58,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 17时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 18时27分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -163,11 +163,12 @@
             2,
             3,
             6,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时47分 ~ 17时30分]"
+          "appearance_count": 11,
+          "time_info": "[11时47分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -183,8 +184,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 17时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -223,6 +224,18 @@
           "time_info": "[00时32分 ~ 06时24分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 18时27分]"
+        },
+        {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
@@ -235,18 +248,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 17时30分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -267,11 +268,12 @@
           "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时27分]"
         }
       ]
     },
