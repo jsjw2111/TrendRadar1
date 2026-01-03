@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T19:21:06.398884+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-01-03T20:48:37.826956+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 20时48分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -117,8 +117,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 20时48分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 20时48分]"
         },
         {
           "title": "“高考AI押题命中率98%”系谣言",
@@ -143,18 +156,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时35分 ~ 07时24分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 19时21分]"
         },
         {
           "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
