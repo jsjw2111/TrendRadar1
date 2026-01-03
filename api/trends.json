@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-04T00:31:03.234085+08:00",
-  "total_titles_processed": 318,
+  "generated_at": "2026-01-04T01:21:23.436411+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美食博主手搓对抗AI的一年",
           "url": "https://www.douyin.com/hot/2356059",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -26,19 +27,48 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3030130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
           "url": "https://wallstreetcn.com/articles/3762467",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国总统特朗普：根据我的指令，美国在委内瑞拉展开（军事）行动。 通过陆海空手段打击委内瑞拉首都加拉加斯，这是为了将总统马杜罗“绳之以法”。 委内瑞拉所有军事能力都被瘫痪。 （美国）将经营委内瑞拉，直至能够安全、合理、“正当”地移交政权。 这次行动是二战以来“从未有过的”。 美国“深更半夜”成功地掳走马杜罗夫妇，他们俩都将受到“美国法律”的制裁。",
+          "url": "https://wallstreetcn.com/livenews/3030116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         }
       ]
     }
