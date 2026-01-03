@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T22:23:40.256324+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-01-03T23:24:21.208700+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时37分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[14时37分 ~ 23时24分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时25分 ~ 23时24分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -40,20 +54,6 @@
           "time_info": "[01时21分 ~ 16时33分]"
         },
         {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            18,
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 22时23分]"
-        },
-        {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
           "url": "https://wallstreetcn.com/articles/3762467",
           "source": "华尔街见闻",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 23时24分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
