@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T01:22:01.719962+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-01-05T02:35:11.332986+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "年度抽象AI作品Top10",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时35分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -24,11 +24,23 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时35分]"
+        },
+        {
+          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
+          "url": "https://wallstreetcn.com/articles/3762500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 02时35分]"
         }
       ]
     }
