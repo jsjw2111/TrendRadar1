@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T20:49:16.065961+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-01-04T21:33:23.655593+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,12 @@
           "source": "微博",
           "ranks": [
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 21时33分]"
         },
         {
           "title": "有网友称收到苹果AI国行版升级通知，官方回应",
