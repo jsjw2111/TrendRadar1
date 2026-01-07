@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T21:43:09.127475+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2026-01-07T22:29:31.828853+08:00",
+  "total_titles_processed": 2076,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 21时43分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 22时29分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 21时43分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 22时29分]"
         },
         {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
@@ -160,6 +160,18 @@
           "time_info": "07时25分"
         },
         {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 22时29分]"
+        },
+        {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
           "url": "https://flash.jin10.com/detail/20260107040236649800",
           "source": "金十数据",
@@ -206,17 +218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时25分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 21时43分]"
         },
         {
           "title": "荣耀高管再度回应Air手机争议",
