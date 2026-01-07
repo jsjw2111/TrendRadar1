@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:33:22.234610+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-01-07T18:30:05.155673+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时44分 ~ 18时30分]"
         },
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
@@ -88,6 +88,18 @@
           "time_info": "[01时27分 ~ 07时25分]"
         },
         {
+          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
+          "url": "https://www.cls.cn/detail/2250185",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 18时30分]"
+        },
+        {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
           "url": "https://wallstreetcn.com/livenews/3031871",
           "source": "华尔街见闻-快讯",
@@ -97,6 +109,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时30分]"
         },
         {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
@@ -157,6 +182,19 @@
           "time_info": "[00时35分 ~ 01时27分]"
         },
         {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时30分]"
+        },
+        {
           "title": "吉利发布全域AI 2.0，千里浩瀚G-ASD今年将推送高速L3和低速L4功能",
           "url": "https://wallstreetcn.com/livenews/3031921",
           "source": "华尔街见闻-快讯",
@@ -167,30 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时25分]"
-        },
-        {
-          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
-          "url": "https://www.cls.cn/detail/2250185",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 17时33分]"
-        },
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时33分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -205,16 +219,15 @@
           "time_info": "[03时21分 ~ 04时29分]"
         },
         {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
+          "title": "荣耀高管再度回应Air手机争议",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E9%AB%98%E7%AE%A1%E5%86%8D%E5%BA%A6%E5%9B%9E%E5%BA%94Air%E6%89%8B%E6%9C%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时33分]"
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "抖音第二总部落子深圳南山，将同步建设字节跳动AI lab研究中心",
@@ -396,7 +409,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -425,6 +438,17 @@
           "time_info": "[11时45分 ~ 12时44分]"
         },
         {
+          "title": "现货金重新站上4500美元！桥水达里奥：金价暴涨释放警示信号",
+          "url": "https://www.cls.cn/detail/2250158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
           "title": "金十图示：2026年01月07日（周三）上海金午盘价为997.08元/克，较国际金价(998.39元/克)，低1.31元/克",
           "url": "https://flash.jin10.com/detail/20260107150245540800",
           "source": "金十数据",
@@ -442,7 +466,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -464,7 +488,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -526,11 +550,12 @@
           "url": "https://wallstreetcn.com/livenews/3032324",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时30分]"
         }
       ]
     }
