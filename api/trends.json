@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T11:45:58.282426+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-01-07T12:44:47.216019+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 11时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 12时44分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -44,6 +44,28 @@
           "time_info": "04时29分"
         },
         {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
           "url": "https://flash.jin10.com/detail/20260107010109299800",
           "source": "金十数据",
@@ -66,6 +88,19 @@
           "time_info": "07时25分"
         },
         {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 12时44分]"
+        },
+        {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
           "url": "https://flash.jin10.com/detail/20260107040236649800",
           "source": "金十数据",
@@ -76,19 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时26分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 11时45分]"
         },
         {
           "title": "XAI：完成200亿美元的E轮融资。",
@@ -139,6 +161,18 @@
           "time_info": "[03时21分 ~ 04时29分]"
         },
         {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
+        },
+        {
           "title": "AMD的CEO苏姿丰：AI并非取代人类，而是改变招聘标准",
           "url": "https://wallstreetcn.com/livenews/3031938",
           "source": "华尔街见闻-快讯",
@@ -148,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -178,7 +201,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -288,7 +311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -339,11 +362,12 @@
           "url": "https://flash.jin10.com/detail/20260107111347667800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -378,11 +402,12 @@
           "url": "https://wallstreetcn.com/livenews/3032063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时44分]"
         }
       ]
     },
