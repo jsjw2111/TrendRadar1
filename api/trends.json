@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-07T16:37:22.024294+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-01-07T17:33:22.234610+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
       "match_count": 33,
       "titles": [
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 17时33分]"
+        },
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
           "url": "https://www.cls.cn/detail/2249896",
@@ -20,18 +32,6 @@
           "time_info": "[07时25分 ~ 14时40分]"
         },
         {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 16时37分]"
-        },
-        {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
           "url": "https://wallstreetcn.com/articles/3762643",
           "source": "华尔街见闻",
@@ -39,24 +39,12 @@
             9,
             7,
             6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时25分 ~ 16时37分]"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时40分]"
+          "appearance_count": 12,
+          "time_info": "[07时25分 ~ 17时33分]"
         },
         {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
@@ -70,8 +58,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 17时33分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时40分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -172,11 +173,24 @@
           "url": "https://www.cls.cn/detail/2250185",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 17时33分]"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时33分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -191,15 +205,16 @@
           "time_info": "[03时21分 ~ 04时29分]"
         },
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时33分]"
         },
         {
           "title": "抖音第二总部落子深圳南山，将同步建设字节跳动AI lab研究中心",
@@ -222,17 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -392,7 +396,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -432,6 +436,17 @@
           "time_info": "15时30分"
         },
         {
+          "title": "分析师：金价看涨动力犹存，非农与最高法院判决成关键变数",
+          "url": "https://flash.jin10.com/detail/20260107165757917800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "金价涨超1%，上探4500美元关口",
           "url": "https://wallstreetcn.com/livenews/3031908",
           "source": "华尔街见闻-快讯",
@@ -441,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "投资者获利了结 金价微跌并关注美国经济数据",
+          "url": "https://flash.jin10.com/detail/20260107164717455800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "大摩预计今年第四季度金价升至4800美元",
@@ -488,6 +514,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 05时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南京熊猫：公司关注到近期脑机接口概念引发市场广泛关注，截至目前，公司尚无与脑机接口相关的成熟产品，亦未形成相关销售收入，相关概念不会对公司当前生产经营活动产生实质性影响。",
+          "url": "https://wallstreetcn.com/livenews/3032324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     }
