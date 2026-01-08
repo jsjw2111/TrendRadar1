@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:31:45.814127+08:00",
-  "total_titles_processed": 2085,
+  "generated_at": "2026-01-08T23:31:41.314862+08:00",
+  "total_titles_processed": 2182,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,21 @@
           "time_info": "[00时36分 ~ 10时01分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 23时31分]"
+        },
+        {
           "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
           "url": "https://www.cls.cn/detail/2251233",
           "source": "财联社热门",
@@ -70,20 +85,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 07时25分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时30分 ~ 22时31分]"
         },
         {
           "title": "新加坡主权财富基金（GIC）、百利投资（Baillie Gifford）和挪威央行据悉将在大模型独角兽MiniMax的IPO中投资。（彭博）",
@@ -187,7 +188,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -349,7 +350,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
@@ -420,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
+          "url": "https://flash.jin10.com/detail/20260108224229611800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
@@ -555,7 +567,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         }
