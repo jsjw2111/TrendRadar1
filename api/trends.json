@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T16:32:32.324576+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-01-10T17:26:15.269853+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -136,6 +136,28 @@
           "time_info": "[02时38分 ~ 03时24分]"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "AI怕你在婚礼上冷",
+          "url": "https://www.douyin.com/hot/2363223",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
           "url": "https://www.zhihu.com/question/571427849",
           "source": "知乎",
@@ -188,11 +210,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 17时26分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -204,8 +227,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 17时26分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -217,8 +240,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时26分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时26分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -232,18 +268,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时36分 ~ 16时32分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
