@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T11:38:59.054997+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-01-10T12:37:33.931110+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 12时37分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -64,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 12时37分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -179,11 +179,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时37分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -234,6 +235,58 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中信证券：特朗普任期内黄金价格将因委内瑞拉事件加速上行",
+          "url": "https://flash.jin10.com/detail/20260110115435338800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时37分]"
+        },
+        {
+          "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
+          "url": "https://flash.jin10.com/detail/20260110082505272800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 11时38分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 3,
       "titles": [
@@ -246,11 +299,24 @@
             8,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时29分 ~ 11时38分]"
+          "appearance_count": 10,
+          "time_info": "[04时29分 ~ 12时37分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时37分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -261,19 +327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时38分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时38分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时37分]"
         }
       ]
     },
@@ -317,31 +372,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "程序员",
+      "match_count": 1,
       "titles": [
         {
-          "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
-          "url": "https://flash.jin10.com/detail/20260110082505272800",
-          "source": "金十数据",
+          "title": "为什么程序员独爱用 Mac 进行编程？",
+          "url": "https://www.zhihu.com/question/595054927",
+          "source": "知乎",
           "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时38分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时37分"
         }
       ]
     }
