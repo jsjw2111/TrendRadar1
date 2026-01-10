@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T21:32:29.767006+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-01-10T22:23:29.943208+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -120,8 +120,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 22时23分]"
+        },
+        {
+          "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
+          "url": "https://wallstreetcn.com/livenews/3034560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -149,6 +160,17 @@
           "time_info": "[02时38分 ~ 03时24分]"
         },
         {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时23分]"
+        },
+        {
           "title": "AI怕你在婚礼上冷",
           "url": "https://www.douyin.com/hot/2363223",
           "source": "抖音",
@@ -171,17 +193,6 @@
           "time_info": "20时48分"
         },
         {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
           "url": "https://www.zhihu.com/question/571427849",
           "source": "知乎",
@@ -191,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "国产AI大模型公司集中上市",
+          "url": "https://www.douyin.com/hot/2362832",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -252,8 +274,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时57分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 22时23分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -266,8 +288,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时36分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 22时23分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -280,8 +302,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 21时32分]"
+          "appearance_count": 10,
+          "time_info": "[15时23分 ~ 22时23分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -303,11 +325,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时23分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -507,11 +530,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时23分]"
         },
         {
           "title": "国家电网经营区2025年省间交易电量规模创新高",
@@ -519,11 +543,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时23分]"
         }
       ]
     },
