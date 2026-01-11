@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T10:10:40.895882+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-01-11T12:12:59.054838+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 10时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 12时12分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -33,8 +33,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 10时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 12时12分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -77,11 +77,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 12时12分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -90,7 +91,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -98,7 +99,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -126,8 +127,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 10时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 12时12分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -137,8 +138,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 10时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 12时12分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -166,6 +167,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时35分 ~ 07时24分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
@@ -209,24 +221,25 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "美国财长贝森特：雪佛龙在委内瑞拉已经营多年，预计其（投资）承诺将大幅增加。",
+          "url": "https://flash.jin10.com/detail/20260111082334683800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 12时12分]"
+        },
+        {
           "title": "网购维权有新规：平台内经营者投诉管辖权明确",
           "url": "https://m.thepaper.cn/newsDetail_forward_32358698",
           "source": "澎湃新闻",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美国财长贝森特：雪佛龙在委内瑞拉已经营多年，预计其（投资）承诺将大幅增加。",
-          "url": "https://flash.jin10.com/detail/20260111082334683800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
