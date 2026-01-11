@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T20:50:02.895313+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-01-11T21:33:44.232167+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时30分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[13时30分 ~ 21时33分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时21分 ~ 20时50分]"
+          "appearance_count": 25,
+          "time_info": "[01时21分 ~ 21时33分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -69,11 +69,12 @@
             17,
             25,
             28,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 20时50分]"
+          "appearance_count": 12,
+          "time_info": "[14时37分 ~ 21时33分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 20时50分]"
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 21时33分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -163,8 +164,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 20时50分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时33分]"
+        },
+        {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 21时33分]"
         },
         {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
@@ -172,11 +185,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时33分]"
         },
         {
           "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
@@ -203,18 +217,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时10分 ~ 13时31分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 20时50分]"
         },
         {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
@@ -327,8 +329,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 20时50分]"
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 21时33分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -460,6 +462,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时33分]"
+        },
+        {
           "title": "金价将走向何方",
           "url": "https://www.toutiao.com/trending/7593981430330297862/",
           "source": "今日头条",
@@ -471,18 +486,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时32分 ~ 18时26分]"
-        },
-        {
-          "title": "金价飙升 多家银行公告提醒",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时50分]"
         },
         {
           "title": "金价飙升银行紧急提示",
