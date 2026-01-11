@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T18:26:21.861688+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-01-11T19:22:03.970917+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -16,11 +16,28 @@
             1,
             5,
             6,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时30分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[13时30分 ~ 19时22分]"
+        },
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时30分 ~ 19时22分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -32,26 +49,12 @@
             10,
             9,
             7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时21分 ~ 18时26分]"
-        },
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
             8,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时30分 ~ 18时26分]"
+          "appearance_count": 22,
+          "time_info": "[01时21分 ~ 19时22分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -61,11 +64,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 18时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 19时22分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -79,6 +83,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            9,
+            8,
+            17,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时37分 ~ 19时22分]"
         },
         {
           "title": "AI时代还有学画画的必要吗",
@@ -95,20 +115,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时30分 ~ 18时26分]"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            9,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 18时26分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -146,6 +152,17 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "中国首个金融气象AI模型“熵机”在穗发布",
+          "url": "https://flash.jin10.com/detail/20260111185158665800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
           "url": "https://wallstreetcn.com/livenews/3034647",
           "source": "华尔街见闻-快讯",
@@ -172,6 +189,18 @@
           "time_info": "[10时10分 ~ 13时31分]"
         },
         {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时22分]"
+        },
+        {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
           "url": "https://flash.jin10.com/detail/20260111150811201800",
           "source": "金十数据",
@@ -185,18 +214,6 @@
           "time_info": "[16时32分 ~ 18时26分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时26分]"
-        },
-        {
           "title": "疑似马斯克AI账号登顶LOL韩服",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D",
           "source": "bilibili 热搜",
@@ -208,13 +225,24 @@
           "time_info": "[17时26分 ~ 18时26分]"
         },
         {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
           "title": "如何看待《英雄联盟》韩服出现神秘玩家，疑似马斯克的 AI（Grok），两天时间 93% 胜率杀进前三？",
           "url": "https://www.zhihu.com/question/1993676340092691102",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -225,7 +253,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -294,8 +322,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 18时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -400,11 +428,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时22分]"
         },
         {
           "title": "美国财长贝森特：雪佛龙在委内瑞拉已经营多年，预计其（投资）承诺将大幅增加。",
@@ -451,6 +480,18 @@
           "time_info": "[16时32分 ~ 18时26分]"
         },
         {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时22分]"
+        },
+        {
           "title": "金价新高不断 还能上车吗",
           "url": "https://www.toutiao.com/trending/7593887858499259940/",
           "source": "今日头条",
@@ -460,17 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时30分 ~ 13时31分]"
-        },
-        {
-          "title": "金价飙升 多家银行公告提醒",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "金价银价大幅波动原因",
