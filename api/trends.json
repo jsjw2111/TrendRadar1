@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-14T06:27:48.550457+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-01-14T07:24:17.810714+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
       "match_count": 15,
       "titles": [
-        {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
-        },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
           "url": "https://www.cls.cn/detail/2256448",
@@ -27,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -50,11 +51,12 @@
             10,
             7,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -66,11 +68,12 @@
             15,
             17,
             19,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -86,8 +89,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -232,8 +235,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -252,7 +255,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -264,11 +267,12 @@
             9,
             7,
             20,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "金价",
@@ -283,6 +287,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 06时27分]"
+        },
+        {
+          "title": "金价为何持续走强",
+          "url": "https://www.toutiao.com/trending/7594774199927836179/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
         }
       ]
     },
@@ -297,11 +312,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时24分]"
         }
       ]
     }
