@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T14:36:58.797465+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-01-17T15:23:57.911087+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 15时23分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -145,7 +145,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -168,11 +168,23 @@
             9,
             14,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 15时23分]"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -306,11 +318,12 @@
           "url": "https://flash.jin10.com/detail/20260117140618013800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时23分]"
         },
         {
           "title": "金价波动",
