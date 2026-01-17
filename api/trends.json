@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:32:08.299301+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-01-17T17:25:25.733119+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时56分 ~ 17时25分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -168,8 +168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时25分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -321,11 +321,12 @@
           "ranks": [
             3,
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 17时25分]"
         },
         {
           "title": "金价波动",
