@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T05:22:41.507227+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-19T06:24:27.561212+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时24分]"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -55,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -85,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时24分]"
         }
       ]
     },
@@ -102,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时24分]"
         }
       ]
     }
