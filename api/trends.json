@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T07:23:42.432079+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-18T10:09:26.811263+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -40,12 +40,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时24分]"
+        },
+        {
+          "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
+          "url": "https://wallstreetcn.com/articles/3763514",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
+          "url": "https://wallstreetcn.com/articles/3763510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -58,6 +80,45 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时23分]"
+        },
+        {
+          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
+          "url": "https://www.zhihu.com/question/1995898061478651512",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美心公司回应为涨薪 20 元致歉，称经营压力大但年年涨薪的底线没破，怎样看待公司的做法？",
+          "url": "https://www.zhihu.com/question/1995965490061866726",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
