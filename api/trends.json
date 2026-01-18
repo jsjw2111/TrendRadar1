@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:26:20.904150+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-01-18T18:26:37.032339+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "time_info": "[00时29分 ~ 07时23分]"
         },
         {
+          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
+          "url": "https://wallstreetcn.com/livenews/3039173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            10,
+            11,
+            17,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 18时26分]"
+        },
+        {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
           "url": "https://wallstreetcn.com/livenews/3039127",
           "source": "华尔街见闻-快讯",
@@ -42,20 +59,18 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
-          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
-          "url": "https://wallstreetcn.com/livenews/3039173",
-          "source": "华尔街见闻-快讯",
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
             8,
             10,
-            11,
-            17,
-            21
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时08分 ~ 17时26分]"
+          "time_info": "[13时28分 ~ 18时26分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -71,19 +86,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时08分 ~ 17时26分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 17时26分]"
         },
         {
           "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
@@ -144,11 +146,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 18时26分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -159,8 +162,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 17时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 18时26分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -206,11 +209,12 @@
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时26分]"
         }
       ]
     },
@@ -227,8 +231,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 17时26分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 18时26分]"
         }
       ]
     }
