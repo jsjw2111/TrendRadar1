@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T13:28:22.340742+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-01-18T14:37:23.308493+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时37分]"
+        },
+        {
+          "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
+          "url": "https://www.zhihu.com/question/1994072855072235778",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时37分]"
         },
         {
           "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
@@ -66,16 +80,16 @@
           "time_info": "[10时09分 ~ 12时08分]"
         },
         {
-          "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
-          "url": "https://www.zhihu.com/question/1994072855072235778",
-          "source": "知乎",
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
+            8,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时28分]"
+          "time_info": "[13时28分 ~ 14时37分]"
         },
         {
           "title": "奇瑞超35款车型将搭载全新AI产品",
@@ -88,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时28分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
@@ -115,7 +118,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -130,6 +133,17 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
           "url": "https://wallstreetcn.com/articles/3763519",
           "source": "华尔街见闻",
@@ -139,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时28分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时37分]"
         },
         {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
@@ -161,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         }
       ]
     },
@@ -188,8 +202,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 14时37分]"
         }
       ]
     }
