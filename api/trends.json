@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:23:24.876933+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-01-18T23:24:29.241512+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时28分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时28分 ~ 23时24分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -94,11 +94,12 @@
           "ranks": [
             4,
             12,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时48分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时48分 ~ 23时24分]"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
@@ -164,8 +165,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 23时24分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -239,8 +240,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时24分]"
         }
       ]
     },
@@ -260,8 +261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 22时23分]"
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 23时24分]"
         }
       ]
     },
