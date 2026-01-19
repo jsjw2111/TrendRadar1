@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:32:59.351783+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-01-19T23:32:19.910827+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -32,6 +32,17 @@
           "time_info": "[12时14分 ~ 17时39分]"
         },
         {
+          "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
+          "url": "https://wallstreetcn.com/livenews/3039840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
           "url": "https://flash.jin10.com/detail/20260119042408235800",
           "source": "金十数据",
@@ -44,6 +55,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时24分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时32分]"
         },
         {
           "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
@@ -81,18 +105,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时35分 ~ 16时39分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时32分]"
         },
         {
           "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
@@ -142,6 +154,17 @@
           "time_info": "[20时59分 ~ 21时52分]"
         },
         {
+          "title": "贺峻霖力证不是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
@@ -164,6 +187,17 @@
           "time_info": "17时39分"
         },
         {
+          "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
+          "url": "https://wallstreetcn.com/livenews/3039833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
           "url": "https://flash.jin10.com/detail/20260119125355949800",
           "source": "金十数据",
@@ -173,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "人工智能芯片初创公司FuriOSAI计划在上市前完成5亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20260119232001802800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "默克中国与镁睿化学签署合作备忘录，将共同开发定制化AI模型",
@@ -236,7 +281,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         }
@@ -244,7 +289,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -256,6 +301,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 10时07分]"
+        },
+        {
+          "title": "OpenAI计划2026年发布第一款设备。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3039842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -279,6 +335,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美媒：OpenAI计划于2026年推出首款产品",
+          "url": "https://flash.jin10.com/detail/20260119231031345800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "据AXIOS：OpenAI计划于2026年推出首款设备。",
+          "url": "https://flash.jin10.com/detail/20260119230504546800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3039830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
@@ -332,23 +438,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌的Gemini业务销售额预计将飙升",
-          "url": "https://flash.jin10.com/detail/20260119221021907800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI编程",
       "match_count": 1,
       "titles": [
@@ -363,6 +452,23 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 14时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "民航局：实施通用航空经营许可与运行许可“两证合一”",
+          "url": "https://wallstreetcn.com/livenews/3039834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     }
