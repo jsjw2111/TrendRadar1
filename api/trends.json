@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T17:39:43.239129+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-01-19T18:35:08.556649+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,18 @@
           "time_info": "[13时35分 ~ 16时39分]"
         },
         {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时35分]"
+        },
+        {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
           "url": "https://wallstreetcn.com/livenews/3039528",
           "source": "华尔街见闻-快讯",
@@ -83,17 +95,6 @@
           "time_info": "[14时45分 ~ 15时33分]"
         },
         {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时39分]"
-        },
-        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
@@ -111,7 +112,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -144,7 +145,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
