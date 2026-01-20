@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-20T18:34:29.301763+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-01-20T19:28:15.995227+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 19时28分]"
+        },
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
           "url": "https://www.cls.cn/detail/2262811",
@@ -52,19 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 18时34分]"
         },
         {
           "title": "外媒谈AI竞争：中国会笑到最后",
@@ -197,7 +197,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -222,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "国际铝业协会（IAI）：12月全球原铝产量为629.6万公吨。",
+          "url": "https://flash.jin10.com/detail/20260120190051094800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
@@ -263,7 +274,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -350,8 +361,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 18时34分]"
+          "appearance_count": 28,
+          "time_info": "[00时35分 ~ 19时28分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -375,11 +386,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
@@ -407,8 +419,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
