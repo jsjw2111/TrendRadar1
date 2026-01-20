@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T22:37:01.818192+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2026-01-20T23:36:56.452254+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
@@ -370,6 +370,17 @@
           "time_info": "[07时25分 ~ 07时26分]"
         },
         {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 23时36分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI与ServiceNow达成协议，在商业软件中使用人工智能代理。",
           "url": "https://flash.jin10.com/detail/20260120204541894800",
           "source": "金十数据",
@@ -390,23 +401,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -447,8 +447,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 22时37分]"
+          "appearance_count": 3,
+          "time_info": "[22时36分 ~ 23时36分]"
         },
         {
           "title": "国际黄金价格突破每盎司4700美元",
@@ -462,6 +462,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时37分 ~ 20时59分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
@@ -542,8 +553,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时37分 ~ 22时37分]"
+          "appearance_count": 11,
+          "time_info": "[17时37分 ~ 23时36分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
