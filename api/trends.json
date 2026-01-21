@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T07:28:16.973330+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-01-21T10:05:10.246361+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -143,7 +143,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "格陵兰岛争端为啥会推高金价",
@@ -154,8 +154,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时05分]"
         },
         {
           "title": "金价",
@@ -167,8 +167,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时05分]"
+        },
+        {
+          "title": "金价突破4800美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44800%E7%BE%8E%E5%85%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -177,7 +188,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -188,7 +199,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
