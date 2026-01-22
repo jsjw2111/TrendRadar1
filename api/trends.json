@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T13:33:29.078569+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-01-22T14:42:13.139732+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -15,11 +15,12 @@
             4,
             5,
             8,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 14时42分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -78,6 +79,19 @@
           "time_info": "[00时57分 ~ 07时31分]"
         },
         {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 14时42分]"
+        },
+        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -89,39 +103,16 @@
           "time_info": "[02时55分 ~ 07时31分]"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 13时33分]"
-        },
-        {
           "title": "黄仁勋谈AI如何改变经济",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时33分]"
-        },
-        {
-          "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
-          "url": "https://flash.jin10.com/detail/20260122130616187800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时42分]"
         },
         {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
@@ -132,8 +123,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 14时42分]"
+        },
+        {
+          "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
+          "url": "https://flash.jin10.com/detail/20260122130616187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
@@ -159,6 +161,18 @@
           "time_info": "[12时11分 ~ 13时33分]"
         },
         {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 14时42分]"
+        },
+        {
           "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
           "url": "https://www.cls.cn/detail/2265632",
           "source": "财联社热门",
@@ -179,6 +193,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 01时58分]"
+        },
+        {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 14时42分]"
         },
         {
           "title": "黄仁勋称AI时代蓝领更吃香，水管工、电工能拿六位数薪水",
@@ -202,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
-          "url": "https://www.cls.cn/detail/2265956",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         },
         {
           "title": "据知情人士透露，人工智能（AI）初创公司SambaNova Systems Inc.寻求融资，此前英特尔收购该公司的磋商陷入停滞。（彭博）",
@@ -356,11 +370,12 @@
           "source": "微博",
           "ranks": [
             9,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时42分]"
         },
         {
           "title": "32岁程序员猝死 妻子曾多次催其下班",
@@ -368,11 +383,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时42分]"
         },
         {
           "title": "猝死程序员妻子晒聊天记录令人心碎",
@@ -380,11 +396,36 @@
           "source": "微博",
           "ranks": [
             30,
-            24
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时42分]"
+        },
+        {
+          "title": "程序员猝死当天5次访问公司OA系统",
+          "url": "https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E7%8C%9D%E6%AD%BB%E5%BD%93%E5%A4%A95%E6%AC%A1%E8%AE%BF%E9%97%AE%E5%85%AC%E5%8F%B8OA%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时33分]"
+          "time_info": "[13时33分 ~ 14时42分]"
+        },
+        {
+          "title": "32岁程序员周末晕倒后猝死",
+          "url": "https://www.douyin.com/hot/2375842",
+          "source": "抖音",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 14时42分]"
         },
         {
           "title": "32岁程序员周末晕倒后猝死",
@@ -396,28 +437,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 00时58分]"
-        },
-        {
-          "title": "程序员猝死当天5次访问公司OA系统",
-          "url": "https://www.baidu.com/s?wd=%E7%A8%8B%E5%BA%8F%E5%91%98%E7%8C%9D%E6%AD%BB%E5%BD%93%E5%A4%A95%E6%AC%A1%E8%AE%BF%E9%97%AE%E5%85%AC%E5%8F%B8OA%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "32岁程序员周末晕倒后猝死",
-          "url": "https://www.douyin.com/hot/2375842",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         }
       ]
     },
@@ -445,11 +464,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时42分]"
         },
         {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
@@ -595,9 +615,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经营",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "棣爸透露棣妈油炸经营情况",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A3%A3%E7%88%B8%E9%80%8F%E9%9C%B2%E6%A3%A3%E5%A6%88%E6%B2%B9%E7%82%B8%E7%BB%8F%E8%90%A5%E6%83%85%E5%86%B5%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 14时42分]"
         }
       ]
     }
