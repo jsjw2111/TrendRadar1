@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T21:54:08.519400+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2026-01-22T23:36:42.289206+08:00",
+  "total_titles_processed": 2045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -148,19 +148,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时54分]"
-        },
-        {
-          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
-          "url": "https://wallstreetcn.com/articles/3763773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时55分 ~ 07时31分]"
+          "appearance_count": 5,
+          "time_info": "[19时27分 ~ 23时36分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -172,8 +161,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 23时36分]"
+        },
+        {
+          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
+          "url": "https://wallstreetcn.com/articles/3763773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时55分 ~ 07时31分]"
         },
         {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
@@ -330,7 +330,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -355,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "传vivo叫停AI眼镜项目，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3042155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国众议院监督管理委员会主席James Comer：本委员会将作废2月9日针对Ghislaine Maxwell的安排。 代理律师称Ghislaine Maxwell将保持沉默（在宣誓证词/录取口供时援引宪法第五修正案拒绝回答）。",
@@ -404,7 +415,7 @@
     },
     {
       "keyword_group": "程序员",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "32 岁程序员周末晕倒后猝死，抢救期间曾被拉入工作群，一个程序员的最后一天，暴露了怎样的职场病？",
@@ -557,11 +568,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%8C%9D%E6%AD%BB%E7%A8%8B%E5%BA%8F%E5%91%98%E6%97%A5%E8%AE%B0%E5%86%99%E5%8A%AA%E5%8A%9B%E5%8A%AA%E5%8A%9B%E5%86%8D%E5%8A%AA%E5%8A%9B%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时36分]"
         },
         {
           "title": "人社局回应32岁程序员周末晕倒猝死",
@@ -585,6 +597,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 00时58分]"
+        },
+        {
+          "title": "律师谈程序员猝死认定工伤争议",
+          "url": "https://www.toutiao.com/trending/7597796606754881545/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
