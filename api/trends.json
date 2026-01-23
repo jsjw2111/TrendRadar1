@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:31:49.372374+08:00",
-  "total_titles_processed": 2082,
+  "generated_at": "2026-01-23T23:31:47.399478+08:00",
+  "total_titles_processed": 2189,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时01分 ~ 22时31分]"
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 23时31分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -67,11 +67,12 @@
             13,
             11,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[16时36分 ~ 23时31分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时31分 ~ 22时31分]"
+          "appearance_count": 12,
+          "time_info": "[15时31分 ~ 23时31分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -271,7 +272,7 @@
     },
     {
       "keyword_group": "程序员",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "真实程序员谈行业现状",
@@ -281,11 +282,12 @@
             10,
             25,
             6,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[16时36分 ~ 23时31分]"
         },
         {
           "title": "32岁程序员猝死背后有何警示",
@@ -297,8 +299,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时32分 ~ 22时31分]"
+          "appearance_count": 14,
+          "time_info": "[13时32分 ~ 23时31分]"
         },
         {
           "title": "视源股份回应32岁程序员猝死事件：正配合有关部门调查",
@@ -411,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "32岁程序员猝死后所有荣誉变成了垃圾",
+          "url": "https://s.weibo.com/weibo?q=%2332%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%8C%9D%E6%AD%BB%E5%90%8E%E6%89%80%E6%9C%89%E8%8D%A3%E8%AA%89%E5%8F%98%E6%88%90%E4%BA%86%E5%9E%83%E5%9C%BE%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
@@ -511,11 +524,12 @@
             20,
             17,
             16,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 22时31分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 23时31分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
