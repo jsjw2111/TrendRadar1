@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T04:27:47.181039+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-01-25T05:22:57.079201+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -27,11 +27,12 @@
             17,
             14,
             25,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -41,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -52,11 +53,12 @@
             30,
             18,
             25,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 05时22分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -84,8 +86,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "真实程序员谈行业现状",
@@ -94,11 +96,12 @@
           "ranks": [
             26,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     },
@@ -115,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -143,8 +146,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     },
@@ -160,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     }
