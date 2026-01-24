@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T05:22:57.079201+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-25T06:24:39.941594+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -28,11 +28,12 @@
             14,
             25,
             16,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -42,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -66,11 +67,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 06时24分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "真实程序员谈行业现状",
@@ -97,11 +99,12 @@
             26,
             24,
             28,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时24分]"
         }
       ]
     },
@@ -115,11 +118,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时24分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -160,11 +164,12 @@
           "url": "https://wallstreetcn.com/articles/3764072",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时24分]"
         }
       ]
     }
