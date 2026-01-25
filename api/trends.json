@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:36:07.798070+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-01-25T22:24:05.440979+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 21时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 22时24分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时38分 ~ 22时24分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -30,24 +44,12 @@
             2,
             1,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时16分 ~ 21时36分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时38分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 22时24分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -59,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时16分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 22时24分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -254,8 +256,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时38分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[14时38分 ~ 22时24分]"
         },
         {
           "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
@@ -362,11 +364,12 @@
             8,
             12,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 21时36分]"
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 22时24分]"
         }
       ]
     }
