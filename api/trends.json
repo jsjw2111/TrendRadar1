@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:38:41.263913+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-01-25T15:26:01.540745+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -50,6 +50,20 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时26分]"
+        },
+        {
           "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://www.toutiao.com/trending/7598387695761588278/",
           "source": "今日头条",
@@ -66,17 +80,16 @@
           "time_info": "[01时22分 ~ 07时24分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            7,
-            2
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时26分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -92,27 +105,16 @@
           "time_info": "[02时35分 ~ 06时24分]"
         },
         {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时38分]"
-        },
-        {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
           "url": "https://wallstreetcn.com/articles/3764092",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时26分]"
         }
       ]
     },
@@ -140,11 +142,23 @@
           "source": "微博",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 15时26分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时26分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -156,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         }
       ]
     },
@@ -218,8 +221,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "32岁程序员猝死背后有何警示",
