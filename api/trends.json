@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:40:36.602068+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-01-26T17:39:40.095442+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
@@ -81,11 +81,25 @@
             13,
             9,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时35分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时35分 ~ 17时39分]"
+        },
+        {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 17时39分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -101,30 +115,18 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 16时40分]"
-        },
-        {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
           "source": "澎湃新闻",
           "ranks": [
             13,
             12,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时35分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时35分 ~ 17时39分]"
         },
         {
           "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
@@ -133,11 +135,12 @@
           "ranks": [
             12,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 17时39分]"
         },
         {
           "title": "你怎么看iPhone Air降价",
@@ -213,7 +216,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -224,7 +227,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -257,6 +260,21 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时39分]"
+        },
+        {
           "title": "杨德龙：国际金价下一目标价1万美元",
           "url": "https://www.toutiao.com/trending/7599480136756366899/",
           "source": "今日头条",
@@ -277,26 +295,12 @@
           "ranks": [
             6,
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时40分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时39分]"
         },
         {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
@@ -382,7 +386,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -398,11 +402,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 17时39分]"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
@@ -430,8 +435,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时35分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时35分 ~ 17时39分]"
         },
         {
           "title": "程序员27岁去美国35岁流落街头",
@@ -442,8 +447,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 17时39分]"
         }
       ]
     },
