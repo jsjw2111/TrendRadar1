@@ -1,12 +1,11 @@
-GPT-5 
-Claude 4 
-Gemini 2.0 
-DeepSeek R2 
+GPT
+Claude 
+Gemini 
+DeepSeek 
 OpenAI 
-o1
-Grok-3
+Grok
 通义千问 
-Qwen3 
+Qwen
 Kimi 
 月之暗面 
 国产大模型
@@ -16,37 +15,13 @@ MCP 协议
 RAG MoE 1-bit量化
 AI编程 
 Copilot 
-AI搜索 
-Perplexity 
-Sora替代
-AI监管
-欧盟法案
-AI安全
-深度伪造
-开源闭源
 特斯拉FSD 
 华为智驾 
-小米SU7
 蔚来ET9 
-800V平台
-固态电池
 英伟达Blackwell
-台积电2nm 
-量子计算 
-SpaceX星舰
-核聚变
 6G
-俄乌无人机 
-中东铁穹
-印太军演 
-高超音速导弹 
-星链军事
 比特币ETF
 AI芯片 
-马斯克xAI
-软银Vision 
-黄金降息
-马斯克Neuralink
-黄仁勋访华 
-扎克伯格Llama 
-奥特曼OpenAI
+马斯克
+扎克伯格
+奥特曼
