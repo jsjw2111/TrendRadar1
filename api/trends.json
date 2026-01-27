@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:04:48.589871+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-27T18:13:25.280398+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时32分 ~ 18时04分]"
+          "appearance_count": 8,
+          "time_info": "[15时32分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 18时04分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -139,8 +139,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 18时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 18时13分]"
         },
         {
           "title": "Hugging Face最新数据显示，Qwen衍生模型数量突破20万，成为全球首个达成此目标的开源大模型。 同时，Qwen系列模型下载量突破10亿次，平均每天被开发者们下载110万次，稳居全球开源大模型TOP1。",
@@ -187,8 +187,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 18时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 18时13分]"
         }
       ]
     },
