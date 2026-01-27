@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:13:25.280398+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-01-27T19:28:09.000517+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 19时28分]"
+        },
+        {
           "title": "DeepSeek开源OCR 2模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -58,20 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时32分 ~ 18时13分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 18时13分]"
+          "appearance_count": 10,
+          "time_info": "[15时32分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -136,11 +137,12 @@
           "url": "https://www.zhihu.com/question/1999268803641639542",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "Hugging Face最新数据显示，Qwen衍生模型数量突破20万，成为全球首个达成此目标的开源大模型。 同时，Qwen系列模型下载量突破10亿次，平均每天被开发者们下载110万次，稳居全球开源大模型TOP1。",
@@ -187,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 19时28分]"
         }
       ]
     },
