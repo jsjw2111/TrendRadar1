@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T18:31:32.916083+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2026-01-28T19:24:38.885135+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             2,
             1,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时46分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时46分 ~ 19时24分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -238,8 +239,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 18时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时36分 ~ 19时24分]"
         }
       ]
     },
@@ -254,7 +255,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
