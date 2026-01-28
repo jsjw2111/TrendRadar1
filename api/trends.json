@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T01:34:02.728970+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-01-29T02:39:29.144834+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：SpaceX上市时间可能定在6月以契合天象及马斯克生日",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时34分]"
+        },
+        {
+          "title": "马斯克：下一代Neuralink赛博增强将于今年晚些时候问世，其性能将提升3倍。Neuralink也已准备好进行首次盲视增强，这将使即使完全失明的人也能以低分辨率“看到东西”。",
+          "url": "https://flash.jin10.com/detail/20260129022154079800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     }
