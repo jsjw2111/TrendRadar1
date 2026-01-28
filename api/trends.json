@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T17:36:24.318214+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-01-28T18:31:32.916083+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 18时31分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -238,8 +238,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 18时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
+          "url": "https://flash.jin10.com/detail/20260128181506461800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
