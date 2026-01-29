@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:27:49.412857+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-01-29T13:44:38.362816+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
@@ -59,9 +59,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "马斯克称中国是下一个级别的狠角色",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BA%A7%E5%88%AB%E7%9A%84%E7%8B%A0%E8%A7%92%E8%89%B2%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：预计Optimus的大规模量产可能要到今年年底才能实现。",
@@ -175,7 +186,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -192,7 +203,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
