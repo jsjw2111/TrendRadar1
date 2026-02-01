@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T02:37:03.501733+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-02-02T03:26:26.174313+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 03时26分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时26分]"
         },
         {
           "title": "马斯克回应曾试图前往爱泼斯坦小岛",
@@ -38,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时26分]"
         }
       ]
     },
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时26分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -66,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时26分]"
         }
       ]
     }
