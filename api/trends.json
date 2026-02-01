@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T13:02:22.561168+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-02-01T14:51:33.640678+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 13时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 14时51分]"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
@@ -49,11 +49,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 14时51分]"
+        },
+        {
+          "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508583",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时02分]"
+          "time_info": "[13时02分 ~ 14时51分]"
         },
         {
           "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
@@ -62,18 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32508583",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -141,6 +143,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时27分 ~ 10时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印尼解除禁令，允许马斯克旗下Grok恢复服务",
+          "url": "https://flash.jin10.com/detail/20260201141746766800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     }
