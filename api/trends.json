@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T07:27:35.135132+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-02-02T10:12:12.237557+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 10时12分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764683",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "马斯克回应曾试图前往爱泼斯坦小岛",
