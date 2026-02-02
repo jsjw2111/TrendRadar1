@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T10:12:12.237557+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-02-02T12:59:16.271109+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时25分 ~ 10时12分]"
+          "appearance_count": 14,
+          "time_info": "[01时25分 ~ 12时59分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "马斯克回应曾试图前往爱泼斯坦小岛",
@@ -43,6 +45,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 07时27分]"
+        },
+        {
+          "title": "马斯克暗示克林顿盖茨等人有罪",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E5%85%8B%E6%9E%97%E9%A1%BF%E7%9B%96%E8%8C%A8%E7%AD%89%E4%BA%BA%E6%9C%89%E7%BD%AA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         }
       ]
     },
@@ -55,11 +68,12 @@
           "url": "https://wallstreetcn.com/articles/3764694",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时59分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -72,6 +86,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 06时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
+          "url": "https://flash.jin10.com/detail/20260202115750959800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为智驾在业界是什么水平？",
+          "url": "https://www.zhihu.com/question/1937471851413611168",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         }
       ]
     }
