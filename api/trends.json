@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T22:42:09.550524+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-02-02T23:39:00.876613+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时25分 ~ 22时42分]"
+          "appearance_count": 28,
+          "time_info": "[01时25分 ~ 23时39分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -170,7 +170,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -181,7 +181,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -192,7 +192,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -203,7 +203,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         }
