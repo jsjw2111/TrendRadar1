@@ -1,140 +1,22 @@
 {
-  "generated_at": "2026-02-03T23:52:24.036102+08:00",
-  "total_titles_processed": 1929,
+  "generated_at": "2026-02-04T00:55:23.830859+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 16时39分]"
-        },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 23时52分]"
-        },
-        {
-          "title": "马斯克跨性别女儿开锤亲爹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            10,
-            12,
-            14,
-            15,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时47分 ~ 23时52分]"
-        },
-        {
-          "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
-          "url": "https://www.zhihu.com/question/2000815546627811275",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时47分 ~ 21时02分]"
-        },
-        {
-          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
-          "url": "https://www.toutiao.com/trending/7602285893713723455/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            16,
-            20,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 18时41分]"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13,
-            14,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时30分 ~ 15时44分]"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://www.douyin.com/hot/2387887",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时47分 ~ 17时42分]"
-        },
-        {
-          "title": "萝莉岛兽行曝光,马斯克急撇清",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 10时09分]"
-        },
-        {
-          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
-          "url": "https://www.zhihu.com/question/2001947312226848988",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时53分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "马斯克，被传唤",
@@ -144,45 +26,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
-          "title": "马斯克女儿爆料",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时48分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "title": "法国司法部门搜查X平台办公室并传唤马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32524769",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            15
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时52分]"
-        },
-        {
-          "title": "阿联酋官员表示，与马斯克的BORING公司合作的迪拜环线第一阶段将立即启动。",
-          "url": "https://flash.jin10.com/detail/20260203182452740800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -192,226 +48,64 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
-          "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
-          "url": "https://flash.jin10.com/detail/20260203020849427800",
-          "source": "金十数据",
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "00时55分"
         },
         {
-          "title": "法国传唤马斯克",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E4%BC%A0%E5%94%A4%E9%A9%AC%E6%96%AF%E5%85%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "马斯克跨性别女儿开锤亲爹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
+          "source": "贴吧",
           "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "法新社：马斯克旗下社交平台X的法国办公室遭搜查",
-          "url": "https://wallstreetcn.com/livenews/3049025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "外媒：法国警方突击搜查社交平台X办公室，巴黎检方传唤马斯克要其接受问询",
-          "url": "https://wallstreetcn.com/livenews/3049109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
-      "keyword_group": "OpenAI",
-      "match_count": 7,
+      "keyword_group": "Qwen",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：Codex应用今日在MacOS上线。",
-          "url": "https://wallstreetcn.com/livenews/3048502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
-          "url": "https://wallstreetcn.com/livenews/3048580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
-          "url": "https://flash.jin10.com/detail/20260203021332925800",
+          "title": "千问宣布推出Qwen3-Coder-Next，一款专为编码代理与本地开发打造的开放权重的语言模型。",
+          "url": "https://flash.jin10.com/detail/20260204002202024800",
           "source": "金十数据",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
-          "url": "https://wallstreetcn.com/livenews/3048579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "OpenAI：Codex应用今日在MacOS上线。",
-          "url": "https://flash.jin10.com/detail/20260203020942519800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
-          "url": "https://wallstreetcn.com/livenews/3048577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
-          "url": "https://flash.jin10.com/detail/20260203063954637800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
-          "url": "https://flash.jin10.com/detail/20260203130436001800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "OpenAI战略大转舵 全速冲刺ChatGPT商业化",
-          "url": "https://flash.jin10.com/detail/20260203130348456800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "AI芯片",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "韩国股市强劲反弹 AI芯片需求推动科技巨头领涨",
-          "url": "https://flash.jin10.com/detail/20260203094652173800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
           "url": "https://www.cls.cn/detail/2279363",
           "source": "财联社热门",
           "ranks": [
-            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "视频和移动通信服务公司Liberty Global：将与谷歌合作，在以人工智能为先的项目中优化云服务，以提升电信系统和网络可扩展性。已达成五年合作伙伴关系，将在整个欧洲业务中部署谷歌的Gemini人工智能模型和云工具。",
-          "url": "https://flash.jin10.com/detail/20260203151504838800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
-          "url": "https://www.cls.cn/detail/2278690",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时41分]"
+          "time_info": "00时55分"
         }
       ]
     }
