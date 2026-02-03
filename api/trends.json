@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T21:02:43.343283+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2026-02-03T22:44:34.309139+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时09分 ~ 22时44分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -47,11 +47,12 @@
             12,
             14,
             15,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时47分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[12时47分 ~ 22时44分]"
         },
         {
           "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
@@ -148,6 +149,17 @@
           "time_info": "[10时09分 ~ 12时48分]"
         },
         {
+          "title": "马斯克，被传唤",
+          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时44分]"
+        },
+        {
           "title": "阿联酋官员表示，与马斯克的BORING公司合作的迪拜环线第一阶段将立即启动。",
           "url": "https://flash.jin10.com/detail/20260203182452740800",
           "source": "金十数据",
@@ -160,15 +172,16 @@
           "time_info": "[18时41分 ~ 19时35分]"
         },
         {
-          "title": "马斯克，被传唤",
-          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
-          "source": "凤凰网",
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时44分]"
         },
         {
           "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
@@ -182,15 +195,26 @@
           "time_info": "02时45分"
         },
         {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
+          "title": "马斯克被法司法部门传唤",
+          "url": "https://www.toutiao.com/trending/7602620308612189722/",
+          "source": "今日头条",
           "ranks": [
-            18
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时44分"
+        },
+        {
+          "title": "法国传唤马斯克",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E4%BC%A0%E5%94%A4%E9%A9%AC%E6%96%AF%E5%85%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "法新社：马斯克旗下社交平台X的法国办公室遭搜查",
@@ -210,7 +234,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -347,11 +371,12 @@
           "url": "https://www.cls.cn/detail/2279363",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时44分]"
         }
       ]
     },
