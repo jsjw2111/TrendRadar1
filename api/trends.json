@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T06:31:55.068628+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-02-04T07:29:27.293255+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
@@ -94,7 +94,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -105,7 +105,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -164,22 +164,12 @@
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时31分]"
-        },
-        {
-          "title": "马斯克，被传唤",
-          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时29分]"
         },
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -189,11 +179,23 @@
             11,
             10,
             7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时29分]"
+        },
+        {
+          "title": "马斯克，被传唤",
+          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时29分]"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -203,8 +205,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时29分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -212,11 +214,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时29分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -226,8 +229,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时29分]"
         },
         {
           "title": "马斯克就法国当局搜查X公司办公室一事回应称：这是一次政治攻击。",
@@ -269,7 +272,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         }
@@ -277,7 +280,7 @@
     },
     {
       "keyword_group": "GPT",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
@@ -289,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20260204062113821800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "OpenAI：ChatGPT当前存在一些问题。",
@@ -326,6 +340,46 @@
       ]
     },
     {
+      "keyword_group": "AI芯片",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时29分]"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：不认为公司在下半年扩大AI芯片产能时会面临供应限制。",
+          "url": "https://flash.jin10.com/detail/20260204065927401800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Qwen",
       "match_count": 2,
       "titles": [
@@ -351,35 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI芯片",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时31分]"
-        },
-        {
-          "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3049341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         }
       ]
     },
