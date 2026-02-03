@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T14:53:58.133726+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-02-03T15:44:07.162096+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,37 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时44分]"
+        },
+        {
+          "title": "马斯克女儿爆料",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13,
+            14,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 15时44分]"
+        },
+        {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时44分]"
         },
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -33,46 +62,6 @@
           "time_info": "[00时41分 ~ 10时09分]"
         },
         {
-          "title": "马斯克女儿爆料",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 14时53分]"
-        },
-        {
-          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
-          "url": "https://www.zhihu.com/question/2001947312226848988",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时53分]"
-        },
-        {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 14时53分]"
-        },
-        {
           "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
           "url": "https://www.toutiao.com/trending/7602285893713723455/",
           "source": "今日头条",
@@ -82,8 +71,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时44分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -91,11 +80,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时44分]"
         },
         {
           "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
@@ -105,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时44分]"
         },
         {
           "title": "马斯克女儿爆料",
@@ -116,6 +106,19 @@
             15,
             17,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时44分]"
+        },
+        {
+          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
+          "url": "https://www.zhihu.com/question/2001947312226848988",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -254,6 +257,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "视频和移动通信服务公司Liberty Global：将与谷歌合作，在以人工智能为先的项目中优化云服务，以提升电信系统和网络可扩展性。已达成五年合作伙伴关系，将在整个欧洲业务中部署谷歌的Gemini人工智能模型和云工具。",
+          "url": "https://flash.jin10.com/detail/20260203151504838800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
