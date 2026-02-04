@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:29:27.293255+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-02-04T10:05:10.286387+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时48分 ~ 04时38分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -157,7 +168,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -183,8 +194,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 10时05分]"
+        },
+        {
+          "title": "马斯克跨性别女儿开锤亲爹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 10时05分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -222,15 +245,15 @@
           "time_info": "[00时55分 ~ 07时29分]"
         },
         {
-          "title": "马斯克跨性别女儿开锤亲爹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
-          "source": "贴吧",
+          "title": "被传唤后，马斯克发声",
+          "url": "https://news.ifeng.com/c/8qSniTMsaqs",
+          "source": "凤凰网",
           "ranks": [
-            22
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时29分]"
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "马斯克就法国当局搜查X公司办公室一事回应称：这是一次政治攻击。",
@@ -300,7 +323,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -362,7 +385,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
