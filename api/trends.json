@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:42:03.276421+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-02-05T19:36:43.588376+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,18 @@
           "time_info": "[00时51分 ~ 10时06分]"
         },
         {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 19时36分]"
+        },
+        {
           "title": "马斯克：爱泼斯坦客户一个也没被捕",
           "url": "https://www.toutiao.com/trending/7602995666331323955/",
           "source": "今日头条",
@@ -59,18 +71,6 @@
           "time_info": "[00时51分 ~ 07时29分]"
         },
         {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 18时42分]"
-        },
-        {
           "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
           "source": "澎湃新闻",
@@ -79,8 +79,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 19时36分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
@@ -152,8 +152,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 19时36分]"
         },
         {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
@@ -178,11 +178,12 @@
           "url": "https://www.cls.cn/detail/2281407",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 19时36分]"
         }
       ]
     },
