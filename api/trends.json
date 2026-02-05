@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:49:06.006245+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-02-05T13:57:10.692515+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -74,11 +74,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 13时57分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -175,8 +176,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时49分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 13时57分]"
         }
       ]
     }
