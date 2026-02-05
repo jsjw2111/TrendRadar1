@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T04:35:38.632139+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-02-06T05:31:12.378848+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时31分]"
         },
         {
           "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
@@ -142,11 +143,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时31分]"
         }
       ]
     }
