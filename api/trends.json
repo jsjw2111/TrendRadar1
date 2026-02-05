@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:36:43.588376+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-02-05T21:04:19.297560+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时04分]"
         },
         {
           "title": "马斯克：爱泼斯坦客户一个也没被捕",
@@ -79,8 +79,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 19时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 21时04分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
@@ -149,11 +149,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时04分]"
         },
         {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
@@ -182,8 +183,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时04分]"
         }
       ]
     },
