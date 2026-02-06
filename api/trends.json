@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T06:25:38.732886+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-02-07T07:27:33.897604+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时36分 ~ 07时27分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -74,11 +74,12 @@
           "url": "https://wallstreetcn.com/articles/3765096",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时27分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -155,11 +156,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时27分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -167,11 +169,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 06时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 07时27分]"
         },
         {
           "title": "拆解马斯克奥特曼互撕大战",
