@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T21:01:57.583882+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2026-02-06T22:07:00.887906+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
@@ -147,8 +147,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时06分 ~ 21时01分]"
+          "appearance_count": 19,
+          "time_info": "[10时06分 ~ 22时07分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
