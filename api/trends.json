@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T05:32:04.549545+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-02-07T06:25:38.732886+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时25分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时25分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -158,8 +158,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时25分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -170,8 +170,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 06时25分]"
         },
         {
           "title": "拆解马斯克奥特曼互撕大战",
