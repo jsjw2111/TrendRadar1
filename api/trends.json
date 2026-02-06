@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:41:02.359956+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-02-06T19:35:12.400625+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 19时35分]"
         },
         {
           "title": "马斯克：Spacex并没有开发手机产品。",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时35分]"
+        },
+        {
+          "title": "马斯克弟弟卷入爱泼斯坦案",
+          "url": "https://www.toutiao.com/trending/7603048029708746771/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
@@ -131,11 +142,12 @@
           "url": "https://wallstreetcn.com/articles/3765096",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时06分 ~ 18时41分]"
+          "appearance_count": 16,
+          "time_info": "[10时06分 ~ 19时35分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
