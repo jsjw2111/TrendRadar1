@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T15:32:52.095671+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-02-07T16:33:41.341691+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时32分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 16时33分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -95,6 +96,19 @@
           "time_info": "[00时45分 ~ 07时27分]"
         },
         {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时33分]"
+        },
+        {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
           "url": "https://wallstreetcn.com/livenews/3051595",
           "source": "华尔街见闻-快讯",
@@ -106,18 +120,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 05时32分]"
-        },
-        {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时32分]"
         },
         {
           "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
@@ -160,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 15时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 16时33分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -173,11 +175,12 @@
             13,
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 15时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 16时33分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
