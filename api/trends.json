@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T16:33:41.341691+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-02-07T17:32:46.106411+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时33分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时32分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -102,11 +102,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 17时32分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -162,8 +163,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 16时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 17时32分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
