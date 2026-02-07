@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T22:27:42.303692+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-02-07T23:26:37.727123+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -108,8 +108,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时43分 ~ 22时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时43分 ~ 23时26分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -194,11 +194,12 @@
             10,
             19,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 22时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时26分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
