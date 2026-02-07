@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:29:00.990969+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-02-07T13:43:11.108811+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 13时43分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -147,8 +147,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 12时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 13时43分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -157,11 +157,12 @@
           "ranks": [
             17,
             19,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 13时43分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
@@ -169,11 +170,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时43分]"
         },
         {
           "title": "拆解马斯克奥特曼互撕大战",
