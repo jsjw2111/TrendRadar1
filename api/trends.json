@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T13:43:11.108811+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-02-07T14:43:39.247170+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 13时43分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 14时43分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -79,7 +79,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时39分]"
+        },
+        {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
@@ -147,8 +158,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 13时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 14时43分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -158,11 +169,12 @@
             17,
             19,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 13时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时45分 ~ 14时43分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
