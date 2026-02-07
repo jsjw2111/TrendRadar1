@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:23:32.451550+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-02-07T20:51:38.098384+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -107,8 +107,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[14时43分 ~ 20时51分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -185,6 +185,19 @@
           "time_info": "[00时45分 ~ 16时33分]"
         },
         {
+          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
+          "url": "https://flash.jin10.com/detail/20260207172525892800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时51分]"
+        },
+        {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3051651",
           "source": "华尔街见闻-快讯",
@@ -196,18 +209,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 13时43分]"
-        },
-        {
-          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
-          "url": "https://flash.jin10.com/detail/20260207172525892800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "拆解马斯克奥特曼互撕大战",
