@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T07:31:15.648168+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-02-08T10:35:20.407349+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     }
