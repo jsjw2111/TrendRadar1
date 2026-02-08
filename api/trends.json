@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T05:28:40.640125+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-09T06:28:59.550062+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "马斯克与爱泼斯坦共进晚餐照曝光",
@@ -40,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "“长沙马斯克”新公司估值2个亿",
@@ -51,11 +51,12 @@
             27,
             21,
             25,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -85,11 +86,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时28分]"
         },
         {
           "title": "爱泼斯坦与马斯克共进晚餐照片曝光",
