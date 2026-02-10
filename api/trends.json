@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T21:16:08.847861+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-02-10T23:00:31.771321+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             22,
             27,
             28,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时39分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[04时39分 ~ 23时00分]"
         },
         {
           "title": "马斯克弟弟回应爱泼斯坦案",
@@ -121,6 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
         }
       ]
     },
