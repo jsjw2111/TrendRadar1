@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T17:52:38.599444+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-02-12T18:47:46.898238+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 18时47分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -137,23 +137,12 @@
             14,
             8,
             17,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 17时52分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 17时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时47分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -166,8 +155,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时30分 ~ 17时52分]"
+          "appearance_count": 12,
+          "time_info": "[06时30分 ~ 18时47分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时47分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
