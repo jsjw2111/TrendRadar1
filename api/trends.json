@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-13T05:35:06.979478+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-02-13T06:34:20.302180+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
       "match_count": 4,
       "titles": [
-        {
-          "title": "Yelp与OpenAI构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3054731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
           "url": "https://wallstreetcn.com/livenews/3054632",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时02分]"
+        },
+        {
+          "title": "Yelp与OpenAI构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3054731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -109,8 +110,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时34分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -122,8 +123,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时34分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -136,8 +137,25 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
+          "url": "https://flash.jin10.com/detail/20260213054809093800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
@@ -154,8 +172,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时34分]"
         }
       ]
     }
