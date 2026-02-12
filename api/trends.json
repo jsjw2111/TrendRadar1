@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-12T16:49:51.559183+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-02-12T17:52:38.599444+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 8,
       "titles": [
+        {
+          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
+          "url": "https://www.cls.cn/detail/2288275",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时52分]"
+        },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
           "url": "https://flash.jin10.com/detail/20260212035557254800",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
-          "url": "https://www.cls.cn/detail/2288275",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 16时49分]"
         },
         {
           "title": "马斯克旗下xAI披露全体会议的视频。",
@@ -135,11 +136,12 @@
             4,
             14,
             8,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 16时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 17时52分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -150,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 16时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 17时52分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -164,8 +166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时30分 ~ 16时49分]"
+          "appearance_count": 11,
+          "time_info": "[06时30分 ~ 17时52分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
