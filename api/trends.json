@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T19:40:55.792678+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-02-12T21:10:02.380795+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 19时40分]"
+          "appearance_count": 8,
+          "time_info": "[15时52分 ~ 21时10分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -44,6 +44,17 @@
           "time_info": "[04时40分 ~ 05时35分]"
         },
         {
+          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
+          "url": "https://wallstreetcn.com/articles/3765571",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 21时10分]"
+        },
+        {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
           "url": "https://flash.jin10.com/detail/20260212011336268800",
           "source": "金十数据",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
-          "url": "https://wallstreetcn.com/articles/3765571",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
@@ -171,19 +171,6 @@
           "time_info": "[06时30分 ~ 18时47分]"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 19时40分]"
-        },
-        {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
@@ -195,6 +182,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 10时13分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 21时10分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
@@ -295,7 +296,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
