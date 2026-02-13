@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T18:40:45.756534+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2026-02-13T19:33:03.479030+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时59分 ~ 18时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 19时33分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -49,11 +49,25 @@
             25,
             15,
             16,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时59分 ~ 18时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 19时33分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时33分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -80,18 +94,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时15分 ~ 14时01分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 18时40分]"
         },
         {
           "title": "DeepSeek回应被指变冷淡",
