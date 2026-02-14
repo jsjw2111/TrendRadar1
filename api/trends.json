@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T14:45:50.608796+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-02-14T15:35:06.627740+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 14时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 15时35分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -41,11 +41,24 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时35分]"
+        },
+        {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时35分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -54,31 +67,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时35分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时35分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -132,8 +135,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时35分]"
+        },
+        {
+          "title": "马斯克： 太阳能将在未来电力生产中占据主导地位。",
+          "url": "https://flash.jin10.com/detail/20260214140612005800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时35分]"
         },
         {
           "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
@@ -146,17 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时39分]"
-        },
-        {
-          "title": "马斯克： 太阳能将在未来电力生产中占据主导地位。",
-          "url": "https://flash.jin10.com/detail/20260214140612005800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         },
         {
           "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
@@ -248,11 +252,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时35分]"
         }
       ]
     },
@@ -300,8 +305,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时35分]"
         }
       ]
     }
