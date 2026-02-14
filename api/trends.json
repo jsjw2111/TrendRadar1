@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T16:34:09.503013+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-02-14T17:32:24.821113+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时03分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时03分 ~ 17时32分]"
+        },
+        {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时45分 ~ 17时32分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -51,40 +63,30 @@
           "time_info": "[12时42分 ~ 16时34分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时45分 ~ 16时34分]"
-        },
-        {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             23,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时45分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[14时45分 ~ 17时32分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 17时32分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -113,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 17时32分]"
         },
         {
           "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
@@ -250,30 +252,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 17时32分]"
         },
         {
           "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
           "url": "https://flash.jin10.com/detail/20260214160547731800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时32分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
           "url": "https://wallstreetcn.com/livenews/3055478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时32分]"
         }
       ]
     },
@@ -323,6 +327,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
+          "url": "https://wallstreetcn.com/livenews/3055475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            11,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 17时32分]"
+        },
+        {
           "title": "美国五角大楼在强行掳走委内瑞拉总统马杜罗的过程中使用了Anthropic的Claude模型。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3055395",
           "source": "华尔街见闻-快讯",
@@ -332,20 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
-          "url": "https://wallstreetcn.com/livenews/3055475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 16时34分]"
         }
       ]
     }
