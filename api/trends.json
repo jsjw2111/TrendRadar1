@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T01:27:46.229080+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-02-15T02:36:56.870670+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -27,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时36分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         }
       ]
     }
