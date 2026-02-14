@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T03:25:57.484321+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-02-15T04:28:14.899846+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         }
       ]
     },
@@ -62,8 +62,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
+          "url": "https://news.ifeng.com/c/8qk233NwWb6",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
         }
       ]
     }
