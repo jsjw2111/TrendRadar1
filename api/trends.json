@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T06:25:10.152722+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-02-15T07:25:51.074740+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 07时25分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -42,11 +42,12 @@
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 07时25分]"
         }
       ]
     },
@@ -59,11 +60,12 @@
           "url": "https://wallstreetcn.com/livenews/3055539",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时25分]"
         }
       ]
     },
@@ -79,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时27分 ~ 06时25分]"
+          "appearance_count": 6,
+          "time_info": "[04时27分 ~ 07时25分]"
         }
       ]
     }
