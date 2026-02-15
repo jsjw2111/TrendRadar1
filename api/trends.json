@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T16:35:20.165141+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-02-15T17:33:48.086881+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             12,
             13,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 17时33分]"
         },
         {
           "title": "马斯克预言：2026年底编程或将全面自动化",
@@ -41,22 +42,24 @@
           "ranks": [
             2,
             12,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 17时33分]"
         },
         {
           "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
           "url": "https://flash.jin10.com/detail/20260215144532247800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时33分]"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -105,11 +108,12 @@
             8,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时21分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[10时21分 ~ 17时33分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -137,6 +141,36 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时30分 ~ 15时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时22分]"
+        },
+        {
+          "title": "DeepSeek“变冷淡”不是翻车",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
@@ -188,25 +222,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 10时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "Grok",
       "match_count": 1,
       "titles": [
@@ -216,11 +231,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 17时33分]"
         }
       ]
     },
