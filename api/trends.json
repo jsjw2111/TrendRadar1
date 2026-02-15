@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:28:58.790164+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-02-15T23:27:37.176901+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -175,8 +175,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 22时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时27分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -210,6 +210,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 23时27分]"
+        },
+        {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
           "url": "https://wallstreetcn.com/articles/3765726",
           "source": "华尔街见闻",
@@ -219,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时21分 ~ 10时22分]"
-        },
-        {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时28分]"
         }
       ]
     },
