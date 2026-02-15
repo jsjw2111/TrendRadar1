@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T15:40:57.432412+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-02-15T16:35:20.165141+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             10,
             12,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 16时35分]"
         },
         {
           "title": "马斯克预言：2026年底编程或将全面自动化",
@@ -43,8 +44,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时35分]"
         },
         {
           "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
@@ -53,9 +54,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时35分]"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -97,6 +98,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 16时35分]"
+        },
+        {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
@@ -122,20 +137,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时30分 ~ 15时40分]"
-        },
-        {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 15时40分]"
         }
       ]
     },
@@ -218,8 +219,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 16时35分]"
         }
       ]
     },
