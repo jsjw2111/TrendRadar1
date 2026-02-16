@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:30:42.480486+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-02-17T07:31:00.044178+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -25,11 +25,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时30分]"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时31分]"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时31分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -38,18 +52,6 @@
           "ranks": [
             6,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时30分]"
-        },
-        {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -74,7 +76,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
@@ -93,8 +95,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -107,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         }
       ]
     },
@@ -122,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时30分]"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时31分]"
         }
       ]
     },
@@ -143,8 +146,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         }
       ]
     },
@@ -161,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         }
       ]
     },
@@ -177,11 +180,12 @@
           "ranks": [
             4,
             14,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时30分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时31分]"
         }
       ]
     }
