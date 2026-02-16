@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:05:17.016536+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-02-16T22:42:32.875488+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时00分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[13时00分 ~ 22时42分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -139,6 +139,18 @@
           "time_info": "10时10分"
         },
         {
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时42分]"
+        },
+        {
           "title": "阿里除夕夜将开源新一代千问Qwen3.5模型",
           "url": "https://wallstreetcn.com/livenews/3055664",
           "source": "华尔街见闻-快讯",
@@ -149,17 +161,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 15时55分]"
-        },
-        {
-          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
-          "url": "https://www.zhihu.com/question/2004174915692172333",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "千问Qwen3.5大模型发布",
@@ -227,8 +228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 21时05分]"
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 22时42分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -273,11 +274,12 @@
           "ranks": [
             12,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时28分 ~ 21时05分]"
+          "appearance_count": 15,
+          "time_info": "[07时28分 ~ 22时42分]"
         }
       ]
     }
