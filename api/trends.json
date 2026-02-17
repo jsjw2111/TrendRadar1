@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-02-18T01:58:33.204376+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-02-18T03:05:53.302850+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic推出Claude Sonnet 4.6模型。",
+          "url": "https://wallstreetcn.com/livenews/3056082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
+          "url": "https://flash.jin10.com/detail/20260218021512170800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "市场消息：Anthropic推出Claude Sonnet 4.6模型。",
+          "url": "https://flash.jin10.com/detail/20260218020029302800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：Grok 4.2公测版现已可用，需手动选择使用。诚邀反馈。与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
+          "url": "https://flash.jin10.com/detail/20260218024102986800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "马斯克：Grok 4.2候选版现已开放公测，需手动选择使用。 诚邀反馈。 与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
+          "url": "https://wallstreetcn.com/livenews/3056096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 2,
@@ -23,28 +90,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic推出Claude Sonnet 4.6模型。",
-          "url": "https://wallstreetcn.com/livenews/3056082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时05分]"
         }
       ]
     },
@@ -78,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时05分]"
         }
       ]
     }
