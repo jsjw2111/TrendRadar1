@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T17:52:00.722294+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-02-17T18:46:28.763367+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -127,6 +127,19 @@
           "time_info": "[10时08分 ~ 15时07分]"
         },
         {
+          "title": "马斯克母亲发视频拜年",
+          "url": "https://www.toutiao.com/trending/7607606769153589275/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 18时46分]"
+        },
+        {
           "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
           "url": "https://wallstreetcn.com/livenews/3055872",
           "source": "华尔街见闻-快讯",
@@ -138,18 +151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 15时07分]"
-        },
-        {
-          "title": "马斯克母亲发视频拜年",
-          "url": "https://www.toutiao.com/trending/7607606769153589275/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时52分]"
         },
         {
           "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
@@ -195,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 17时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 18时46分]"
         }
       ]
     },
@@ -248,11 +249,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 15时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 18时46分]"
         }
       ]
     }
