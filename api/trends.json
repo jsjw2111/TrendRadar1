@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T21:05:25.525891+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-02-17T22:46:35.907860+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
@@ -127,6 +127,18 @@
           "time_info": "[10时08分 ~ 15时07分]"
         },
         {
+          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
+          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时40分 ~ 22时46分]"
+        },
+        {
           "title": "马斯克母亲发视频拜年",
           "url": "https://www.toutiao.com/trending/7607606769153589275/",
           "source": "今日头条",
@@ -138,18 +150,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时47分 ~ 18时46分]"
-        },
-        {
-          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
-          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 21时05分]"
         },
         {
           "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
@@ -254,7 +254,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
@@ -293,8 +293,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 21时05分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 22时46分]"
         }
       ]
     }
