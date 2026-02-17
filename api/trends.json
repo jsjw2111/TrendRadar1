@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T18:46:28.763367+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-02-17T19:41:02.234451+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -153,6 +153,28 @@
           "time_info": "[12时53分 ~ 15时07分]"
         },
         {
+          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
+          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "马斯克母亲向中国人民拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
           "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
           "url": "https://flash.jin10.com/detail/20260217091405072800",
           "source": "金十数据",
@@ -196,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 18时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 19时41分]"
         }
       ]
     },
@@ -253,8 +275,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 18时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 19时41分]"
         }
       ]
     }
