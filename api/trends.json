@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T22:49:03.809698+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-02-19T23:50:54.966095+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时39分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 23时50分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
@@ -141,11 +141,12 @@
           "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 22时49分]"
+          "appearance_count": 3,
+          "time_info": "[22时48分 ~ 23时50分]"
         }
       ]
     },
