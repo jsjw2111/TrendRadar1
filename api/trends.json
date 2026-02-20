@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T13:55:05.257899+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-02-20T14:58:31.574857+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 14时58分]"
         },
         {
           "title": "Gemini3.1 Pro上线",
@@ -112,6 +112,34 @@
       ]
     },
     {
+      "keyword_group": "Grok",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
+          "url": "https://flash.jin10.com/detail/20260220144504457800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
+          "url": "https://flash.jin10.com/detail/20260220043316320800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -126,23 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
-          "url": "https://flash.jin10.com/detail/20260220043316320800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         }
       ]
     },
