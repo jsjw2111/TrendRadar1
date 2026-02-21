@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:43:35.656782+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-02-21T22:27:58.146353+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -119,11 +119,12 @@
             10,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 21时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 22时27分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -246,19 +247,6 @@
       "titles": [
         {
           "title": "阿里千问推出Qwen Coding Plan",
-          "url": "https://flash.jin10.com/detail/20260221171046643800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
-          "title": "阿里千问推出Qwen Coding Plan",
           "url": "https://wallstreetcn.com/livenews/3057176",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -269,8 +257,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 21时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 22时27分]"
+        },
+        {
+          "title": "阿里千问推出Qwen Coding Plan",
+          "url": "https://flash.jin10.com/detail/20260221171046643800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时23分]"
         }
       ]
     },
@@ -308,11 +309,12 @@
             9,
             5,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时01分 ~ 21时43分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 22时27分]"
         }
       ]
     },
