@@ -1,8 +1,102 @@
 {
-  "generated_at": "2026-02-21T14:43:22.243681+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-02-21T15:34:00.732404+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时01分]"
+        },
+        {
+          "title": "欧媒：马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://flash.jin10.com/detail/20260221144322666800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超过1万颗卫星",
+          "url": "https://wallstreetcn.com/livenews/3057141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            19,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 15时34分]"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超过1万颗卫星",
+          "url": "https://flash.jin10.com/detail/20260221100438466800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时34分]"
+        },
+        {
+          "title": "马斯克妈妈说不想去火星",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%8E%BB%E7%81%AB%E6%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超1万颗卫星",
+          "url": "https://www.toutiao.com/trending/7608435920823435274/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
     {
       "keyword_group": "OpenAI",
       "match_count": 5,
@@ -16,11 +110,12 @@
             11,
             20,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时34分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -44,11 +139,12 @@
           "ranks": [
             7,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时34分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -72,76 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 01时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
-          "url": "https://www.zhihu.com/question/2005421279541483469",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 10时01分]"
-        },
-        {
-          "title": "马斯克称星舰每年将发射超过1万颗卫星",
-          "url": "https://wallstreetcn.com/livenews/3057141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时43分]"
-        },
-        {
-          "title": "马斯克称星舰每年将发射超过1万颗卫星",
-          "url": "https://flash.jin10.com/detail/20260221100438466800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时43分]"
-        },
-        {
-          "title": "马斯克妈妈说不想去火星",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%8E%BB%E7%81%AB%E6%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "马斯克称星舰每年将发射超1万颗卫星",
-          "url": "https://www.toutiao.com/trending/7608435920823435274/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         }
       ]
     },
@@ -205,11 +231,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 14时43分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 15时34分]"
         }
       ]
     },
