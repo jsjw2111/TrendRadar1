@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T13:43:13.876384+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-02-21T14:43:22.243681+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             11,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 14时43分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -29,11 +30,12 @@
             7,
             15,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 14时43分]"
         },
         {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
@@ -41,11 +43,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时43分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -98,11 +101,12 @@
           "ranks": [
             7,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 14时43分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -110,11 +114,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时43分]"
         },
         {
           "title": "马斯克妈妈说不想去火星",
@@ -199,11 +204,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时43分]"
         }
       ]
     },
