@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T12:13:47.327242+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-02-21T13:43:13.876384+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             11,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时43分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -27,11 +28,24 @@
           "ranks": [
             7,
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时43分]"
+        },
+        {
+          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
+          "url": "https://flash.jin10.com/detail/20260221100811881800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时43分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -55,17 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 01时39分]"
-        },
-        {
-          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
-          "url": "https://flash.jin10.com/detail/20260221100811881800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         }
       ]
     },
@@ -94,11 +97,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时43分]"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超过1万颗卫星",
+          "url": "https://flash.jin10.com/detail/20260221100438466800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时13分]"
+          "time_info": "[12时13分 ~ 13时43分]"
         },
         {
           "title": "马斯克妈妈说不想去火星",
@@ -107,18 +123,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "马斯克称星舰每年将发射超过1万颗卫星",
-          "url": "https://flash.jin10.com/detail/20260221100438466800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -197,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时43分]"
         }
       ]
     },
