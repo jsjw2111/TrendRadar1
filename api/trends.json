@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:27:23.138003+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-22T19:22:48.769627+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 18时27分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 19时22分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 19时22分]"
         }
       ]
     },
@@ -105,8 +105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时49分 ~ 19时22分]"
         }
       ]
     },
