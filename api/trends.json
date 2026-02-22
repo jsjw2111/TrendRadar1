@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-02-22T10:11:06.279959+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-02-22T12:50:15.834708+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时50分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
           "url": "https://wallstreetcn.com/articles/3765938",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 12时50分]"
+        },
+        {
+          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
+          "url": "https://wallstreetcn.com/articles/3765936",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "time_info": "[12时49分 ~ 12时50分]"
         }
       ]
     },
@@ -48,8 +61,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 12时50分]"
         }
       ]
     },
@@ -81,11 +111,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 12时50分]"
         }
       ]
     }
