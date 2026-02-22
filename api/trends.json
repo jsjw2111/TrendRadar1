@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T20:52:00.055494+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-02-22T21:44:52.902906+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 20时51分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 21时44分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -36,18 +36,6 @@
           "time_info": "[10时10分 ~ 17时32分]"
         },
         {
-          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
-          "url": "https://wallstreetcn.com/articles/3765936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 15时37分]"
-        },
-        {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
@@ -58,8 +46,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时36分 ~ 20时51分]"
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 21时44分]"
+        },
+        {
+          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
+          "url": "https://wallstreetcn.com/articles/3765936",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 15时37分]"
         }
       ]
     },
@@ -85,8 +85,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 20时51分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 21时44分]"
         }
       ]
     },
@@ -104,11 +104,12 @@
             5,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时49分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[12时49分 ~ 21时44分]"
         }
       ]
     },
