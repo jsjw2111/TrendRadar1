@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-02-22T07:26:41.587749+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-02-22T10:11:06.279959+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
+        },
+        {
+          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
+          "url": "https://wallstreetcn.com/articles/3765938",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        }
+      ]
+    },
     {
       "keyword_group": "Gemini",
       "match_count": 1,
@@ -20,25 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时11分]"
         }
       ]
     },
