@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T01:15:25.475275+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-02-25T03:04:10.804714+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "亚马逊(AMZN.O)：Claude已通过亚马逊云服务(AWS)的Amazon Bedrock在东南亚地区上线可用。",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 03时04分]"
         },
         {
           "title": "亚马逊：AWS在中东的客户可以使用Claude。",
@@ -31,16 +44,15 @@
           "time_info": "[00时01分 ~ 01时15分]"
         },
         {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
+          "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
+          "url": "https://www.zhihu.com/question/2009482926241382805",
+          "source": "知乎",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时15分]"
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 03时04分]"
         },
         {
           "title": "亚马逊(AMZN.O)：亚马逊云服务(AWS)在阿联酋、巴林推出Claude跨区域推理服务。",
