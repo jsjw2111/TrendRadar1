@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T14:02:44.020762+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-02-25T15:53:02.555908+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -124,6 +124,37 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
+          "url": "https://www.cls.cn/detail/2294211",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时16分 ~ 15时53分]"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星 电磁发射有望成商业航天重要方向",
+          "url": "https://www.cls.cn/detail/2294154",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -170,25 +201,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
-          "url": "https://www.cls.cn/detail/2294211",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4
           ],
           "is_new": false,
           "appearance_count": 3,
