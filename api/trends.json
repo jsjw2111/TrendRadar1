@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T13:59:08.450620+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-02-26T15:11:15.905606+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -78,6 +78,45 @@
       ]
     },
     {
+      "keyword_group": "Gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
+          "url": "https://wallstreetcn.com/livenews/3058967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
+          "url": "https://flash.jin10.com/detail/20260225235511423800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 2,
       "titles": [
@@ -103,34 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
-          "url": "https://wallstreetcn.com/livenews/3058967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
-          "url": "https://flash.jin10.com/detail/20260225235511423800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
         }
       ]
     }
