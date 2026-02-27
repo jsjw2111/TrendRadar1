@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:48:13.845204+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-02-27T16:41:53.598945+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时41分]"
         },
         {
           "title": "谷歌(GOOG.O)和OpenAI的员工正在推动限制军事人工智能。",
