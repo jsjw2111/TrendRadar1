@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:37:44.960994+08:00",
-  "total_titles_processed": 1987,
+  "generated_at": "2026-02-28T22:23:38.383033+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时30分 ~ 21时37分]"
+          "appearance_count": 21,
+          "time_info": "[05时30分 ~ 22时23分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -46,11 +46,12 @@
             16,
             17,
             28,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 21时37分]"
+          "appearance_count": 11,
+          "time_info": "[14时39分 ~ 22时23分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -232,11 +233,12 @@
           "url": "https://www.zhihu.com/question/2010670686461452529",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时23分]"
         },
         {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
@@ -272,11 +274,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时23分]"
         }
       ]
     },
