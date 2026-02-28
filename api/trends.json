@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-01T01:21:45.202151+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-01T02:34:59.524020+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2010670686461452529",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "OpenAI",
       "match_count": 1,
@@ -13,11 +30,29 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克在社交媒体平台“X”表示，用户现在可以选择主题了。所以，如果用户厌倦了政治煽动性内容，可以选择其他主题。只需点击\"为你推荐\"即可。",
+          "url": "https://flash.jin10.com/detail/20260301015735039800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     }
