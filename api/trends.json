@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T20:47:08.067972+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2026-02-28T21:37:44.960994+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时30分 ~ 20时47分]"
+          "appearance_count": 20,
+          "time_info": "[05时30分 ~ 21时37分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -38,18 +38,6 @@
           "time_info": "[01时36分 ~ 15时28分]"
         },
         {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 07时26分]"
-        },
-        {
           "title": "解读OpenAI获千亿美元投资背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
@@ -61,8 +49,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时39分 ~ 20时47分]"
+          "appearance_count": 10,
+          "time_info": "[14时39分 ~ 21时37分]"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 07时26分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -235,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时37分]"
         },
         {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
@@ -271,11 +271,12 @@
           "url": "https://www.zhihu.com/question/2011023228328510169",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时37分]"
         }
       ]
     },
