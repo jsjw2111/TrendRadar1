@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T03:21:58.804718+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-03-01T04:27:43.400008+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,29 @@
             12,
             17,
             14,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克转发了一条称Grok准确预测了未来的帖子，该帖子表示，正如Grok预测的那样，以色列和美国在2月28日袭击了伊朗。马斯克对持表示，预测未来是衡量（智能体）智慧的最佳标准。",
+          "url": "https://flash.jin10.com/detail/20260301040546719800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
