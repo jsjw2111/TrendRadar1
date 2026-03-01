@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T10:24:36.371488+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-03-01T12:55:06.942172+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -21,8 +21,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时55分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
+          "url": "https://flash.jin10.com/detail/20260301120433529800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
@@ -147,7 +158,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
