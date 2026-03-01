@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T13:53:26.064500+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-03-01T14:48:05.907447+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -18,11 +18,12 @@
             19,
             10,
             9,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 13时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 14时48分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -34,6 +35,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "马斯克：我一点也不信任OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260301141148179800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -173,11 +185,12 @@
           "url": "https://flash.jin10.com/detail/20260301133956537800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时48分]"
         },
         {
           "title": "马斯克在社交媒体平台“X”表示，用户现在可以选择主题了。所以，如果用户厌倦了政治煽动性内容，可以选择其他主题。只需点击\"为你推荐\"即可。",
