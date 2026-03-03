@@ -1,22 +1,84 @@
 {
-  "generated_at": "2026-03-04T01:44:37.009765+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-04T02:49:52.549261+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "GPT",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
+          "url": "https://wallstreetcn.com/livenews/3062952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.2 即时版将在旧版模型板块的模型选择器中向付费用户开放3个月，将于6月3日下线。",
+          "url": "https://flash.jin10.com/detail/20260304021024141800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.3 即时版自今日起向 ChatGPT 的所有用户开放。",
+          "url": "https://flash.jin10.com/detail/20260304020932534800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "OpenAI：推出 GPT‑5.3 即时网站。",
+          "url": "https://flash.jin10.com/detail/20260304020800832800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
           "url": "https://wallstreetcn.com/livenews/3062921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时49分]"
+        },
+        {
+          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3062945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "02时49分"
         }
       ]
     },
@@ -31,7 +93,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
