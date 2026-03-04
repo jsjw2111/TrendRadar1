@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T04:33:40.636535+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-03-05T05:36:25.839384+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -77,8 +77,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时36分]"
         },
         {
           "title": "Claude Code 真的那么厉害吗？",
@@ -94,26 +94,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "keyword_group": "马斯克",
+      "match_count": 2,
       "titles": [
         {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
+          "title": "美国上诉法院裁定马斯克可免于就政府效率部（DOGE）问题作证。",
+          "url": "https://flash.jin10.com/detail/20260305052529472800",
+          "source": "金十数据",
           "ranks": [
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
         {
           "title": "政协委员告诉你什么最让马斯克破防",
           "url": "https://www.toutiao.com/trending/7612652724908441610/",
@@ -125,6 +119,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 02时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
+          "url": "https://www.zhihu.com/question/1922608207504867947",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时36分]"
         }
       ]
     }
