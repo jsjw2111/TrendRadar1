@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T07:29:09.145160+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-03-04T10:04:22.828477+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
@@ -66,7 +66,7 @@
     },
     {
       "keyword_group": "OpenAI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
@@ -75,7 +75,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -97,9 +97,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "OpenAI考虑为北约机密网络提供合约",
+          "url": "https://flash.jin10.com/detail/20260304092203004800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
@@ -146,6 +157,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "通义千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价阿里千问大模型负责人林俊旸自宣卸任？会对通义千问造成什么影响？",
+          "url": "https://www.zhihu.com/question/2012332008160895210",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     }
