@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T17:40:16.185848+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-03-06T18:36:16.242218+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 17时40分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 18时36分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -38,11 +38,12 @@
           "ranks": [
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时36分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -135,6 +136,18 @@
           "time_info": "[12时43分 ~ 17时40分]"
         },
         {
+          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
+          "url": "https://www.cls.cn/detail/2304614",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 18时36分]"
+        },
+        {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
           "url": "https://flash.jin10.com/detail/20260306050651902800",
           "source": "金十数据",
@@ -155,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
-          "url": "https://www.cls.cn/detail/2304614",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
@@ -230,11 +232,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 17时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 18时36分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
