@@ -1,288 +1,33 @@
 {
-  "generated_at": "2026-03-06T23:38:53.599272+08:00",
-  "total_titles_processed": 1993,
+  "generated_at": "2026-03-07T00:42:31.431824+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时05分 ~ 23时38分]"
-        },
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
           "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            10,
-            8,
-            7,
-            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时39分 ~ 23时38分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时46分]"
-        },
-        {
-          "title": "号称最强模型 OpenAI GPT-5.4发布",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
-          "url": "https://wallstreetcn.com/livenews/3064630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时38分]"
-        },
-        {
-          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
-          "url": "https://wallstreetcn.com/livenews/3064629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时38分]"
-        },
-        {
-          "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
-          "url": "https://flash.jin10.com/detail/20260306025523028800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI芯片",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://wallstreetcn.com/livenews/3064683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时52分]"
+          "time_info": "00时42分"
         },
         {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 17时40分]"
-        },
-        {
-          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
-          "url": "https://www.cls.cn/detail/2304614",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 18时36分]"
-        },
-        {
-          "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
-          "url": "https://flash.jin10.com/detail/20260306050651902800",
-          "source": "金十数据",
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
-          "url": "https://flash.jin10.com/detail/20260306014710843800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
-          "url": "https://flash.jin10.com/detail/20260306013029699800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OpenAI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
-          "url": "https://flash.jin10.com/detail/20260306120949776800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "软银集团正寻求一笔至高达400亿美元的创纪录贷款，用于收购OpenAI的股权。",
-          "url": "https://flash.jin10.com/detail/20260306120926767800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3064859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克千金走秀,台风超辣眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351464&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8D%83%E9%87%91%E8%B5%B0%E7%A7%80%2C%E5%8F%B0%E9%A3%8E%E8%B6%85%E8%BE%A3%E7%9C%BC",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时51分 ~ 20时58分]"
-        },
-        {
-          "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32705838",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 17时40分]"
-        },
-        {
-          "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
-          "url": "https://flash.jin10.com/detail/20260306031802688800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
-          "url": "https://www.zhihu.com/question/2012928663889338822",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "time_info": "00时42分"
         }
       ]
     }
