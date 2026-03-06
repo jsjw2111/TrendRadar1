@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-06T18:36:16.242218+08:00",
-  "total_titles_processed": 1530,
-  "failed_sources": [],
+  "generated_at": "2026-03-06T19:31:16.344475+08:00",
+  "total_titles_processed": 1595,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "GPT",
@@ -14,11 +16,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 19时31分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -42,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 19时31分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -236,8 +239,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 18时36分]"
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 19时31分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
