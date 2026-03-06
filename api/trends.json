@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T05:31:20.068808+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-07T06:31:06.564651+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时31分]"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
@@ -97,8 +97,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时33分 ~ 06时31分]"
         }
       ]
     }
