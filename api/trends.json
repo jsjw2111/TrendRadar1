@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T22:42:46.400925+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2026-03-06T23:38:53.599272+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时05分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[10时05分 ~ 23时38分]"
         },
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
@@ -34,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时39分 ~ 22时42分]"
+          "appearance_count": 11,
+          "time_info": "[15时39分 ~ 23时38分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
