@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-06T19:31:16.344475+08:00",
-  "total_titles_processed": 1595,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-03-06T20:58:06.028746+08:00",
+  "total_titles_processed": 1717,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
@@ -20,8 +18,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时05分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 20时58分]"
+        },
+        {
+          "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时39分 ~ 20时58分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -33,20 +46,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 19时31分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -239,8 +238,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时51分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 20时58分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
