@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T21:41:01.907441+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-03-08T22:26:25.549276+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据天空新闻：社交媒体平台X正调查具有攻击性的Grok帖子。",
+          "url": "https://flash.jin10.com/detail/20260308214443950800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     }
