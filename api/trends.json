@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-09T21:05:01.761466+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-03-09T22:53:03.095874+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“龙虾”开发者加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7615246816627396150/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 22时53分]"
+        }
+      ]
+    },
     {
       "keyword_group": "Qwen",
       "match_count": 1,
