@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T21:02:35.535169+08:00",
-  "total_titles_processed": 1830,
+  "generated_at": "2026-03-11T22:46:27.722090+08:00",
+  "total_titles_processed": 1965,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             11,
             9,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 22时46分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -154,7 +155,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
