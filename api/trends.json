@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T02:43:47.868934+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-03-14T03:33:19.169873+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 03时33分]"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
@@ -55,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时33分]"
         }
       ]
     }
