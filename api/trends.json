@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T15:46:39.118629+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-03-13T16:41:11.114464+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克对Digital Optimus项目的时间节点给出回应：六个月。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时36分]"
+        },
+        {
+          "title": "发生了什么？伊朗最高领袖这一举动让马斯克站上“风口浪尖”",
+          "url": "https://www.cls.cn/detail/2311539",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
