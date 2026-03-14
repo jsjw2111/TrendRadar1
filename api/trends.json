@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T13:46:36.399290+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-03-14T14:47:13.964417+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
           "ranks": [
             7,
             15,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 14时47分]"
         }
       ]
     },
@@ -93,6 +94,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时03分 ~ 13时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "政府网站显示，美国商务部撤回关于AI芯片出口的拟议规则",
+          "url": "https://flash.jin10.com/detail/20260314140852478800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
