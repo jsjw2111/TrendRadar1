@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T00:34:44.963638+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-16T01:28:47.261575+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3070375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
         }
       ]
     },
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
         }
       ]
     }
