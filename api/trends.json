@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T20:54:46.745409+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-03-15T21:49:17.908063+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             12,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时50分 ~ 21时49分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -66,7 +67,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -85,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时49分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
