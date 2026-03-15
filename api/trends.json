@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T06:29:59.524799+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-16T07:31:31.650145+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             5,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时40分 ~ 06时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时40分 ~ 07时31分]"
         }
       ]
     },
