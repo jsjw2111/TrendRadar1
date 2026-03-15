@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-15T21:49:17.908063+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-03-15T22:32:25.429674+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时50分 ~ 22时32分]"
+        },
         {
           "title": "Space X IPO，马斯克要学“马老师”",
           "url": "https://wallstreetcn.com/articles/3767527",
@@ -20,21 +35,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时28分 ~ 18时32分]"
-        },
-        {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时50分 ~ 21时49分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -86,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时32分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
