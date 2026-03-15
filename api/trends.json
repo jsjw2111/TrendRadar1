@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T17:35:30.316278+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-03-15T18:32:14.188074+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[10时28分 ~ 18时32分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 18时32分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -35,19 +48,6 @@
           "time_info": "[13时06分 ~ 16时37分]"
         },
         {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时35分]"
-        },
-        {
           "title": "马斯克回应其个人财富占全球GDP近1%",
           "url": "https://www.toutiao.com/trending/7616607470194180115/",
           "source": "今日头条",
@@ -57,6 +57,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
+          "url": "https://wallstreetcn.com/articles/3767515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 10时28分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         }
       ]
     },
@@ -75,24 +104,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时06分 ~ 17时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
-          "url": "https://wallstreetcn.com/articles/3767515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 10时28分]"
         }
       ]
     }
