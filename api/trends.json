@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-03-17T00:14:35.031397+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-17T02:02:11.952655+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：人生不需要晴天朋友",
+          "url": "https://www.toutiao.com/trending/7616405377337278518/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
+          "url": "https://wallstreetcn.com/livenews/3071006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
+          "url": "https://wallstreetcn.com/livenews/3071045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
     {
       "keyword_group": "OpenAI",
       "match_count": 1,
@@ -15,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         }
       ]
     },
@@ -46,28 +91,12 @@
           "url": "https://www.cls.cn/detail/2314550",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
-          "url": "https://wallstreetcn.com/livenews/3071006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时02分]"
         }
       ]
     }
