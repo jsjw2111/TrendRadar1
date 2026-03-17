@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-03-17T07:33:40.412273+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-03-17T10:08:50.256304+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "GPT",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "英伟达发布DLSS 5，黄仁勋高呼图形学的GPT时刻来了",
+          "url": "https://wallstreetcn.com/articles/3767654",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
+          "url": "https://wallstreetcn.com/livenews/3071104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "英伟达发布NVIDIA DLSS 5，图形学迎来“GPT时刻”",
+          "url": "https://flash.jin10.com/detail/20260317023518834800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "Grok",
       "match_count": 3,
@@ -87,34 +137,6 @@
       ]
     },
     {
-      "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
-          "url": "https://wallstreetcn.com/livenews/3071104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "英伟达发布NVIDIA DLSS 5，图形学迎来“GPT时刻”",
-          "url": "https://flash.jin10.com/detail/20260317023518834800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "OpenAI",
       "match_count": 2,
       "titles": [
@@ -138,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }
