@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:52:40.743469+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-03-18T17:57:30.239768+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 16时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 17时57分]"
         },
         {
           "title": "王兴兴谈具身智能的GPT时刻",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 17时57分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -161,11 +162,12 @@
           "ranks": [
             3,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 17时57分]"
         }
       ]
     },
