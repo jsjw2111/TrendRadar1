@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T18:55:37.853405+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-03-18T19:47:20.669642+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             7,
             10,
             6,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 19时47分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -126,8 +127,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时05分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[14时05分 ~ 19时47分]"
         },
         {
           "title": "文件显示：美国证券交易委员会（SEC）与马斯克表示，他们正在谈判解决关于马斯克披露其Twitter股份的民事诉讼。",
@@ -166,11 +167,12 @@
             7,
             8,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 19时47分]"
         }
       ]
     },
