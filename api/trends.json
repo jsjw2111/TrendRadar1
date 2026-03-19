@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T06:31:18.599784+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-03-20T07:31:39.227653+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "王兴兴谈具身智能的GPT时刻",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时31分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -29,6 +30,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
+          "url": "https://flash.jin10.com/detail/20260320063627057800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
+          "url": "https://flash.jin10.com/detail/20260320063632572800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3073607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Code核心工程师Thariq：刚刚发布了Claude Code渠道（Claude Code channels），可以通过指定的MCP控制Claude Code会话，首批支持Telegram和Discord。使用这个功能可以直接从手机给Claude Code发消息。",
+          "url": "https://flash.jin10.com/detail/20260320063934981800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -60,11 +117,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时31分]"
         }
       ]
     }
