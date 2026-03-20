@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-21T05:31:50.531524+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-03-21T06:30:44.212920+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时30分]"
+        },
+        {
+          "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
+          "url": "https://wallstreetcn.com/livenews/3074361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT",
       "match_count": 1,
@@ -14,28 +42,12 @@
           "ranks": [
             20,
             19,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 05时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 06时30分]"
         }
       ]
     }
