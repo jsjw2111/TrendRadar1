@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:05:39.845434+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2026-03-20T23:43:50.826959+08:00",
+  "total_titles_processed": 2031,
   "failed_sources": [],
   "trends": [
     {
@@ -77,7 +77,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
@@ -155,8 +155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时39分 ~ 22时05分]"
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 23时43分]"
         },
         {
           "title": "曝马斯克拟采购200亿中国光伏设备",
