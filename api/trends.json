@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T07:31:39.227653+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-03-20T10:07:18.406417+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 10时07分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -38,7 +38,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -55,7 +55,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -66,7 +66,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -83,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -118,11 +118,29 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 10时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
+          "url": "https://wallstreetcn.com/livenews/3073712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     }
