@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T18:28:34.812664+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-03-21T19:24:36.942074+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -58,6 +58,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 17时33分]"
+        },
+        {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：企业版Grok Voice现已推出。",
+          "url": "https://flash.jin10.com/detail/20260321191236896800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
+          "url": "https://flash.jin10.com/detail/20260321183027923800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
