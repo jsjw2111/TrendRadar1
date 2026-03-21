@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T22:28:40.397138+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-03-21T23:27:27.570183+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[07时31分 ~ 14时44分]"
         },
         {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 23时27分]"
+        },
+        {
           "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
           "url": "https://wallstreetcn.com/livenews/3074361",
           "source": "华尔街见闻-快讯",
@@ -46,19 +59,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时30分 ~ 10时01分]"
-        },
-        {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 22时28分]"
         },
         {
           "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
@@ -106,11 +106,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 23时27分]"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
@@ -136,11 +137,12 @@
           "ranks": [
             8,
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时27分]"
         },
         {
           "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
