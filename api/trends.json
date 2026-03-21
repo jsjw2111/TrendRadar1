@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T13:42:07.224134+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-03-21T14:44:22.892310+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             1,
             10,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 14时44分]"
         },
         {
           "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
