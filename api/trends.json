@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T18:29:28.520285+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-03-22T19:25:22.481346+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 18时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 19时25分]"
         },
         {
           "title": "马斯克官宣TERAFAB项目，目标年产1太瓦计算能力",
@@ -30,11 +30,12 @@
             7,
             10,
             13,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 19时25分]"
         },
         {
           "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
@@ -59,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 19时25分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
@@ -68,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时25分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂",
