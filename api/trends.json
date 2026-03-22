@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T20:53:41.476207+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-03-22T21:45:11.993840+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 20时53分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 21时45分]"
         },
         {
           "title": "马斯克官宣TERAFAB项目，目标年产1太瓦计算能力",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 21时45分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
@@ -62,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 21时45分]"
         },
         {
           "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
@@ -140,11 +141,12 @@
           "url": "https://wallstreetcn.com/livenews/3074546",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时45分]"
         }
       ]
     },
