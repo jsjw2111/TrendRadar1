@@ -1,187 +1,44 @@
 {
-  "generated_at": "2026-03-22T23:28:23.550942+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-03-23T00:32:42.727767+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
           "url": "https://www.cls.cn/detail/2320520",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            10,
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 23时28分]"
-        },
-        {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
           "url": "https://wallstreetcn.com/articles/3768085",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时33分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "马斯克官宣TERAFAB项目，目标年产1太瓦计算能力",
-          "url": "https://wallstreetcn.com/livenews/3074497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            7,
-            10,
-            13,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 19时25分]"
-        },
-        {
-          "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
-          "url": "https://flash.jin10.com/detail/20260322132322239800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 15时39分]"
-        },
-        {
-          "title": "马斯克官宣开建史上最大芯片厂",
-          "url": "https://www.toutiao.com/trending/7619963914993798694/",
-          "source": "今日头条",
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "马斯克：Terafab项目即将公布 年产能超1太瓦算力",
-          "url": "https://flash.jin10.com/detail/20260322081338227800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "埃隆·马斯克：TERAFAB项目的目标是每年达到一万亿瓦的计算产能，其中大部分必须用于太空领域，因为美国总发电量仅为0.5太瓦。",
-          "url": "https://flash.jin10.com/detail/20260322100551515800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
-          "url": "https://flash.jin10.com/detail/20260322000325105800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "渣打集团行政总裁：希望进一步深入了解DeepSeek",
-          "url": "https://wallstreetcn.com/livenews/3074546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3074453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 10时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
-          "url": "https://wallstreetcn.com/livenews/3074461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时27分]"
+          "time_info": "00时32分"
         }
       ]
     }
