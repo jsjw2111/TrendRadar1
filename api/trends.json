@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T00:32:42.727767+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-23T01:26:33.445807+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://www.cls.cn/detail/2320520",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
           "url": "https://wallstreetcn.com/articles/3768085",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
         },
         {
           "title": "“罕见”！马斯克败诉",
           "url": "https://www.cls.cn/detail/2320283",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时26分]"
         }
       ]
     }
