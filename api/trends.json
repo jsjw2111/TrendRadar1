@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-03-22T22:29:35.146715+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-03-22T23:28:23.550942+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 8,
       "titles": [
-        {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时32分 ~ 22时29分]"
-        },
         {
           "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
           "url": "https://www.cls.cn/detail/2320520",
@@ -32,8 +18,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 22时29分]"
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 23时28分]"
+        },
+        {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时32分 ~ 23时28分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 22时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 23时28分]"
         },
         {
           "title": "马斯克官宣TERAFAB项目，目标年产1太瓦计算能力",
