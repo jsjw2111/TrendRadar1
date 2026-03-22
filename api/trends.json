@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T10:14:26.681148+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-03-22T12:53:48.034393+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“罕见”！马斯克败诉",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 10时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 12时53分]"
         },
         {
           "title": "马斯克：Terafab项目即将公布 年产能超1太瓦算力",
@@ -26,9 +27,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "埃隆·马斯克：TERAFAB项目的目标是每年达到一万亿瓦的计算产能，其中大部分必须用于太空领域，因为美国总发电量仅为0.5太瓦。",
+          "url": "https://flash.jin10.com/detail/20260322100551515800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     },
