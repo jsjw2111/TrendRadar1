@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:54:15.154285+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-22T15:39:37.084561+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 15时39分]"
         },
         {
           "title": "马斯克官宣TERAFAB项目，目标年产1太瓦计算能力",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时39分]"
         },
         {
           "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
@@ -38,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时39分]"
         },
         {
           "title": "马斯克：Terafab项目即将公布 年产能超1太瓦算力",
