@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T14:02:12.439812+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-03-24T15:17:46.263216+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
           "ranks": [
             20,
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 15时17分]"
         },
         {
           "title": "SpaceX股东富达投资：马斯克的“轨道数据”愿景具备可行性",
@@ -88,8 +89,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 14时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时17分]"
         }
       ]
     }
