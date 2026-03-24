@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T06:33:28.523621+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-03-25T07:33:58.939696+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -82,7 +82,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -153,6 +153,28 @@
           "time_info": "04时48分"
         },
         {
+          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
+          "url": "https://flash.jin10.com/detail/20260325064051929800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
+          "url": "https://flash.jin10.com/detail/20260325063733355800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
           "url": "https://flash.jin10.com/detail/20260325034535690800",
           "source": "金十数据",
@@ -185,11 +207,12 @@
           "url": "https://wallstreetcn.com/articles/3768255",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 06时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 07时33分]"
         },
         {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
@@ -245,8 +268,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
@@ -262,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时33分]"
         }
       ]
     }
