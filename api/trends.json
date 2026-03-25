@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T03:08:52.366125+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-03-26T04:40:04.901645+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时40分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
