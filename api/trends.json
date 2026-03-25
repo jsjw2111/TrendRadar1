@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T06:37:35.759448+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-03-26T07:36:57.513155+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时36分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
