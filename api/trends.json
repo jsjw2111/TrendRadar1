@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-25T19:42:39.961987+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2026-03-25T21:12:38.876072+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
       "match_count": 21,
       "titles": [
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            20,
+            16,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 21时12分]"
+        },
         {
           "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
           "url": "https://www.zhihu.com/question/2020036375211157322",
@@ -21,21 +37,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时55分 ~ 19时42分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            19,
-            20,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 19时42分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
