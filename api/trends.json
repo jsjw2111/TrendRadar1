@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T04:40:04.901645+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-03-26T05:51:32.022003+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时51分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
