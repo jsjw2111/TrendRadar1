@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:02:40.043856+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-03-25T15:53:33.420853+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时53分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -42,29 +43,31 @@
           "time_info": "00时14分"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 14时02分]"
-        },
-        {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时53分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时53分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -260,19 +263,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 14时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时57分 ~ 15时53分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
           "url": "https://www.cls.cn/detail/2323662",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 15时53分]"
         },
         {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
@@ -295,6 +299,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "史上最大造芯计划启动，马斯克胃口为何这么大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816082",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时33分]"
+        },
+        {
+          "title": "马斯克表示，X将暂停并重新考虑此前依据创作者在本国所获浏览量来更新创作者变现机制的决定。",
+          "url": "https://flash.jin10.com/detail/20260325153040129800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
@@ -334,6 +366,23 @@
       ]
     },
     {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：下一版本的Grok Imagine将会非常出色。我们将加大投入。",
+          "url": "https://flash.jin10.com/detail/20260325152816240800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI Agent",
       "match_count": 1,
       "titles": [
@@ -348,23 +397,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时33分 ~ 10时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "史上最大造芯计划启动，马斯克胃口为何这么大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816082",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时33分]"
         }
       ]
     }
