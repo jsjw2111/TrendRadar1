@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T18:05:34.185026+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-03-26T19:51:42.773056+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 18时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 19时51分]"
         },
         {
           "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 19时51分]"
         }
       ]
     }
