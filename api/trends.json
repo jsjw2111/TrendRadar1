@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-03-29T07:32:36.755833+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-03-29T10:31:05.318131+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
+          "url": "https://www.zhihu.com/question/2020874143453725371",
+          "source": "知乎",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时31分]"
+        },
+        {
+          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
+          "url": "https://wallstreetcn.com/articles/3768640",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 2,
@@ -29,24 +58,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
-          "url": "https://www.zhihu.com/question/2020874143453725371",
-          "source": "知乎",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
         }
       ]
     }
