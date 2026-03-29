@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T00:37:08.615657+08:00",
-  "total_titles_processed": 318,
+  "generated_at": "2026-03-30T01:32:19.155301+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时32分]"
         },
         {
           "title": "DeepSeek“崩了”",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时32分]"
         }
       ]
     }
