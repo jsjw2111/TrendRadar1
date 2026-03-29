@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T19:31:44.431417+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-29T20:58:21.552351+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时42分]"
+        },
+        {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "据Business Insider：马斯克旗下Xai初始创建团队的最后一位成员Ross Nordeen本周离开了该公司。",
