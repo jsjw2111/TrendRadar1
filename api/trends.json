@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T07:34:19.694815+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-03-30T10:33:03.629453+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -32,6 +32,67 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时34分]"
+        },
+        {
+          "title": "DeepSeek公告服务出现重大中断",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "DeepSeek服务出现重大中断",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "等DeepSeek修复",
+          "url": "https://s.weibo.com/weibo?q=%E7%AD%89DeepSeek%E4%BF%AE%E5%A4%8D&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克撕破了一块遮羞布",
+          "url": "https://news.ifeng.com/c/8ruED34F9fY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
         }
       ]
     }
