@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T00:57:56.514507+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-31T02:09:14.603329+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时09分]"
         },
         {
           "title": "马斯克：特斯拉(TSLA.O)正在日本进行大规模投资，包括服务设施和超级充电站的建设。特斯拉的许多零部件都是在日本制造的。在过去的20年里，松下一直是我们的最大战略供应商。",
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩溃10多小时为何是“好事”",
+          "url": "https://www.toutiao.com/trending/7622965821714730505/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
         }
       ]
     }
