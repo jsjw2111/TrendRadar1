@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T21:20:35.922378+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-03-31T23:03:50.094810+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "18时13分"
         },
         {
+          "title": "DeepSeek被做成清明节纸扎",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            25,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 23时03分]"
+        },
+        {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时01分 ~ 18时13分]"
-        },
-        {
-          "title": "DeepSeek被做成清明节纸扎",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 21时20分]"
         },
         {
           "title": "DeepSeek连续三天发生服务异常，最长宕机超10小时",
@@ -75,7 +76,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         }
@@ -143,7 +144,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         }
