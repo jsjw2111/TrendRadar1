@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T06:45:48.626296+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-04-01T07:36:08.936628+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -68,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时36分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -82,8 +82,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时36分]"
+        },
+        {
+          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+          "url": "https://wallstreetcn.com/articles/3768915",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         }
       ]
     }
