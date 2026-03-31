@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:16:34.089605+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-03-31T17:02:17.531074+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时08分 ~ 07时36分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         }
       ]
     }
