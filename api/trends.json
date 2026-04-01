@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T17:06:04.826824+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-04-01T18:57:55.990541+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 17时06分]"
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 18时57分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -66,7 +66,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
         },
@@ -75,11 +75,24 @@
           "url": "https://www.douyin.com/hot/2451216",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时57分]"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 18时57分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -91,17 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
         }
       ]
     },
@@ -109,6 +111,18 @@
       "keyword_group": "OpenAI",
       "match_count": 7,
       "titles": [
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时57分]"
+        },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
           "url": "https://flash.jin10.com/detail/20260401041908272800",
@@ -120,18 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时40分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时06分]"
         },
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
@@ -234,8 +236,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 17时06分]"
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 18时57分]"
         }
       ]
     }
