@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-02T04:44:47.474329+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-04-02T05:42:56.473409+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
       "match_count": 7,
       "titles": [
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时42分]"
+        },
         {
           "title": "ClaudeCode源码泄露",
           "url": "https://www.douyin.com/hot/2451216",
@@ -17,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时42分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -30,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时42分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -40,11 +53,12 @@
           "ranks": [
             21,
             16,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时42分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -54,23 +68,12 @@
             22,
             14,
             16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时44分]"
-        },
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            14,
+            18,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时42分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -78,11 +81,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时42分]"
         },
         {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
@@ -90,11 +94,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时42分]"
         }
       ]
     },
