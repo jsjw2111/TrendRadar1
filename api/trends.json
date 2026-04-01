@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T05:42:56.473409+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-04-02T06:39:01.588484+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             17,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时39分]"
         },
         {
           "title": "ClaudeCode源码泄露",
@@ -27,11 +28,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时39分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -43,8 +45,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时39分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -57,8 +59,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时39分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -69,11 +71,12 @@
             14,
             16,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时39分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -85,8 +88,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时39分]"
         },
         {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
