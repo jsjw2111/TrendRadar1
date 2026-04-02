@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-04-02T07:37:45.864250+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-04-02T10:24:42.091330+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            9,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时37分]"
-        },
         {
           "title": "ClaudeCode源码泄露",
           "url": "https://www.douyin.com/hot/2451216",
@@ -33,8 +18,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时24分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -44,11 +29,12 @@
             17,
             14,
             15,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时24分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -58,11 +44,12 @@
             18,
             17,
             16,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时24分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -73,11 +60,12 @@
             16,
             14,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时24分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -90,6 +78,21 @@
             18,
             17,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时24分]"
+        },
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            9,
+            13,
+            16
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -107,6 +110,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时42分]"
+        },
+        {
+          "title": "深挖Claude Code有何隐藏秘密",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%8C%96Claude%20Code%E6%9C%89%E4%BD%95%E9%9A%90%E8%97%8F%E7%A7%98%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "史上最大IPO要来了！马斯克旗下SpaceX据悉已递交上市申请",
+          "url": "https://www.cls.cn/detail/2332689",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "据英国金融时报：亚马逊(AMZN.O)正洽谈收购卫星公司全球星，与埃隆·马斯克的星链展开竞争。",
+          "url": "https://flash.jin10.com/detail/20260402064145625800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
@@ -125,23 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：亚马逊(AMZN.O)正洽谈收购卫星公司全球星，与埃隆·马斯克的星链展开竞争。",
-          "url": "https://flash.jin10.com/detail/20260402064145625800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
         }
       ]
     }
