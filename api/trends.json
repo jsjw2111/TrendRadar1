@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T13:04:04.838517+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-04-02T15:14:29.642016+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             15,
             21,
             16,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 15时14分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -47,11 +48,12 @@
             16,
             14,
             21,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 15时14分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -64,11 +66,12 @@
             18,
             17,
             20,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 15时14分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -81,11 +84,12 @@
             18,
             17,
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 15时14分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -138,11 +142,12 @@
           "url": "https://www.cls.cn/detail/2332689",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 15时14分]"
         },
         {
           "title": "据英国金融时报：亚马逊(AMZN.O)正洽谈收购卫星公司全球星，与埃隆·马斯克的星链展开竞争。",
@@ -186,7 +191,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
