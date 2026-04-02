@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T05:39:11.136437+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-03T06:33:40.650005+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时33分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -27,11 +27,12 @@
             19,
             22,
             12,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时33分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -44,8 +45,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时33分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -59,8 +60,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时33分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -74,8 +75,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时33分]"
         }
       ]
     },
