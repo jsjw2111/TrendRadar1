@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T10:26:01.445785+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-04-03T13:06:34.158969+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             12,
             17,
             26,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 10时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时06分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
