@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:44:56.093384+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-04-03T19:38:28.972111+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
@@ -158,26 +158,20 @@
       ]
     },
     {
-      "keyword_group": "GPT",
-      "match_count": 1,
+      "keyword_group": "Qwen",
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
-          "url": "https://flash.jin10.com/detail/20260403014329436800",
-          "source": "金十数据",
+          "title": "Gemma4与Qwen3.6有哪些升级",
+          "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
+          "time_info": "19时38分"
+        },
         {
           "title": "如何评价 qwen 3.6 转向闭源？",
           "url": "https://www.zhihu.com/question/2022382258535809067",
@@ -191,6 +185,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 04时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
+          "url": "https://flash.jin10.com/detail/20260403014329436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
