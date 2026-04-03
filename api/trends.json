@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T01:35:56.890029+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-04-04T02:49:43.551416+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时49分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -33,6 +33,34 @@
       ]
     },
     {
+      "keyword_group": "Grok",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
+          "url": "https://flash.jin10.com/detail/20260404012421226800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "马斯克要求那些参与SpaceX美国IPO的公司购买Grok。 某些银行同意在Grok开支数千万美元。 某些银行开始将Grok融合到它们的系统。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3082295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Qwen",
       "match_count": 1,
       "titles": [
@@ -42,11 +70,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时49分]"
         }
       ]
     }
