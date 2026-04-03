@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T05:35:23.794506+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-04-04T06:35:15.862752+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时35分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -76,11 +77,12 @@
             5,
             4,
             3,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时35分]"
         }
       ]
     }
