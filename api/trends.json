@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T22:43:03.082637+08:00",
-  "total_titles_processed": 1865,
+  "generated_at": "2026-04-03T23:40:08.521983+08:00",
+  "total_titles_processed": 1951,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时42分 ~ 22时43分]"
+          "appearance_count": 4,
+          "time_info": "[22时42分 ~ 23时40分]"
         }
       ]
     },
@@ -182,8 +183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时43分]"
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 23时40分]"
         },
         {
           "title": "如何评价 qwen 3.6 转向闭源？",
