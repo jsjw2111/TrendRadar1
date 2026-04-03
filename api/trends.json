@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T21:05:37.385928+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2026-04-03T22:43:03.082637+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "用Claude Code源码自制客户端",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时03分 ~ 10时26分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         }
       ]
     },
@@ -167,11 +178,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时05分]"
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 22时43分]"
         },
         {
           "title": "如何评价 qwen 3.6 转向闭源？",
