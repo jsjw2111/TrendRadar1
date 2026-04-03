@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T03:39:33.747087+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-04-04T04:38:11.341400+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时38分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -37,23 +38,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
-          "url": "https://flash.jin10.com/detail/20260404012421226800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 03时39分]"
-        },
-        {
           "title": "马斯克要求那些参与SpaceX美国IPO的公司购买Grok。 某些银行同意在Grok开支数千万美元。 某些银行开始将Grok融合到它们的系统。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3082295",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 04时38分]"
+        },
+        {
+          "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
+          "url": "https://flash.jin10.com/detail/20260404012421226800",
+          "source": "金十数据",
+          "ranks": [
+            10,
             21
           ],
           "is_new": false,
@@ -73,11 +75,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时38分]"
         }
       ]
     }
