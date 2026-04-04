@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T16:42:12.503664+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-04-04T17:39:08.958803+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时09分 ~ 17时39分]"
         },
         {
           "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
@@ -44,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时09分 ~ 17时39分]"
         },
         {
           "title": "如何解读 claude code 代码？",
