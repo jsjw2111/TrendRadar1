@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T16:44:16.846464+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-04-05T17:40:19.481324+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,25 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 16时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 17时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
