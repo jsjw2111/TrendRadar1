@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-04-08T01:01:11.995764+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-08T02:04:14.012956+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -32,14 +15,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时04分]"
+        },
+        {
+          "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
+          "url": "https://flash.jin10.com/detail/20260408020158994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "Anthropic：正与美国政府官员就Claude Mythos预览版及其进攻性和防御性网络能力进行持续磋商。",
+          "url": "https://flash.jin10.com/detail/20260408020039926800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -49,8 +54,37 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时04分]"
+        },
+        {
+          "title": "马斯克表示，期待与英特尔(INTC.O)在Terafab项目上合作。",
+          "url": "https://flash.jin10.com/detail/20260408014937410800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时04分]"
         }
       ]
     }
