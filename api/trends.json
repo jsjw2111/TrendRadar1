@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T04:54:30.128719+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-04-08T05:42:59.875295+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         },
         {
           "title": "马斯克表示，期待与英特尔(INTC.O)在Terafab项目上合作。",
@@ -84,8 +84,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         }
       ]
     }
