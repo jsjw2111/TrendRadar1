@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:57:49.569254+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-04-08T19:57:37.506628+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             22,
             21,
             23,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 18时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 19时57分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -68,11 +69,12 @@
           "ranks": [
             15,
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 19时57分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -145,11 +147,12 @@
             15,
             14,
             19,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 18时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 19时57分]"
         }
       ]
     },
