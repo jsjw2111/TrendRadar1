@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T10:29:34.170983+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-04-08T13:12:24.767655+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 13时12分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -40,6 +41,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "UP主解读Claude新模型Mythos",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBClaude%E6%96%B0%E6%A8%A1%E5%9E%8BMythos",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
+          "url": "https://www.zhihu.com/question/2024876426596291384",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 13时12分]"
+        },
+        {
+          "title": "DeepSeek重要更新：上线专家模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%B8%8A%E7%BA%BF%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
@@ -53,11 +105,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 13时12分]"
         },
         {
           "title": "马斯克表示，期待与英特尔(INTC.O)在Terafab项目上合作。",
@@ -85,28 +138,12 @@
             17,
             15,
             14,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 10时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
-          "url": "https://www.zhihu.com/question/2024876426596291384",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 13时12分]"
         }
       ]
     },
