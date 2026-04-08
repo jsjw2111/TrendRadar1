@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T17:14:49.874101+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-04-08T18:57:49.569254+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时59分 ~ 18时57分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -62,17 +62,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 15时21分]"
-        },
-        {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
           "url": "https://www.zhihu.com/question/2024876426596291384",
           "source": "知乎",
@@ -82,8 +71,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 18时57分]"
+        },
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 15时21分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
@@ -148,8 +148,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时59分 ~ 18时57分]"
         }
       ]
     },
