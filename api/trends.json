@@ -1,115 +1,39 @@
 {
-  "generated_at": "2026-04-09T22:06:30.748596+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-04-10T00:18:45.412607+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "OpenAI",
-      "match_count": 4,
+      "keyword_group": "Gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI因安全风险采取了分阶段推出新模型的策略。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3084581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时40分]"
-        },
-        {
-          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3084479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260409051237886800",
+          "title": "谷歌(GOOG.O)：Gemini应用程序现已能够生成交互式模拟和模型。",
+          "url": "https://flash.jin10.com/detail/20260410000240017800",
           "source": "金十数据",
           "ranks": [
-            27
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "00时18分"
         }
       ]
     },
     {
-      "keyword_group": "GPT",
+      "keyword_group": "AI芯片",
       "match_count": 1,
       "titles": [
         {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude防话痨插件爆火",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            22,
-            23,
-            19,
-            18,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 19时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克称FSD V15版本安全性将远超人类水平",
-          "url": "https://wallstreetcn.com/livenews/3084767",
+          "title": "亚马逊考虑向其他公司出售其AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3085230",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "00时18分"
         }
       ]
     }
