@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:31:48.283476+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-04-11T20:59:39.422654+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 20时59分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时59分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
