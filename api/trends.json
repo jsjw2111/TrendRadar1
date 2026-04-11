@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T22:00:48.146564+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2026-04-11T22:46:44.082708+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时01分 ~ 22时00分]"
+          "appearance_count": 12,
+          "time_info": "[14时01分 ~ 22时46分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 12时56分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
