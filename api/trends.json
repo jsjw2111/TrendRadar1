@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T19:35:17.987197+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-04-12T21:03:05.505605+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 19时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 21时03分]"
         },
         {
           "title": "OpenAI CEO住所遭袭",
