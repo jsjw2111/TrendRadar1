@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T04:06:18.699166+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-04-14T05:52:11.473706+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时52分]"
         },
         {
           "title": "马斯克旗下X独立通讯应用XChat即将上线",
@@ -65,9 +65,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         }
       ]
     }
