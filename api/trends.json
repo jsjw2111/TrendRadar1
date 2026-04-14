@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T06:46:51.870938+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-04-15T07:43:12.707009+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -71,17 +71,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "据The Information：Anthropic将Claude Enterprise改为按使用量计费，导致重度用户成本上升。",
-          "url": "https://flash.jin10.com/detail/20260415061241772800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
           "url": "https://flash.jin10.com/detail/20260415004937638800",
           "source": "金十数据",
@@ -91,6 +80,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "据The Information：Anthropic将Claude Enterprise改为按使用量计费，导致重度用户成本上升。",
+          "url": "https://flash.jin10.com/detail/20260415061241772800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时43分]"
         }
       ]
     },
@@ -103,11 +104,12 @@
           "url": "https://wallstreetcn.com/articles/3769939",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[04时55分 ~ 07时43分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -152,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时43分]"
         }
       ]
     }
