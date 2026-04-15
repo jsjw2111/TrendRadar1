@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T17:21:08.700167+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-04-15T19:01:31.778717+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时55分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[04时55分 ~ 19时01分]"
         },
         {
           "title": "马斯克：恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。",
