@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T07:43:12.707009+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-04-15T10:34:56.990936+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -108,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时55分 ~ 07时43分]"
+          "appearance_count": 6,
+          "time_info": "[04时55分 ~ 10时34分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -155,11 +155,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 10时34分]"
         }
       ]
     }
