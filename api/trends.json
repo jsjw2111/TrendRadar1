@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T01:37:11.561481+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-04-20T02:53:32.507720+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -39,8 +41,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时53分]"
         }
       ]
     },
@@ -53,11 +55,12 @@
           "url": "https://www.zhihu.com/question/2028695048301102521",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时53分]"
         }
       ]
     },
@@ -73,8 +76,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时53分]"
         }
       ]
     }
