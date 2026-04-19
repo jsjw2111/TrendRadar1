@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:40:01.040320+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-04-19T19:36:23.380348+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时30分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时30分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -81,11 +81,12 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
