@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T01:58:44.285209+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-04-21T03:17:06.084831+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "法国检方就X平台涉嫌多项不当行为传唤马斯克",
@@ -15,8 +15,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时17分]"
+        },
+        {
+          "title": "法国检方传唤马斯克",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E6%A3%80%E6%96%B9%E4%BC%A0%E5%94%A4%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "time_info": "[03时16分 ~ 03时17分]"
         },
         {
           "title": "马斯克被法国检方传唤",
@@ -28,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 03时17分]"
         }
       ]
     }
