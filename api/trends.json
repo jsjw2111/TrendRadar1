@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T00:10:44.717219+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-21T01:58:44.285209+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时58分]"
         },
         {
           "title": "马斯克被法国检方传唤",
