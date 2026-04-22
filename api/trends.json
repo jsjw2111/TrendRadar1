@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T17:22:03.472227+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-04-22T19:06:45.646874+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -75,7 +75,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -105,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 19时06分]"
         },
         {
           "title": "特斯拉Q1财报前瞻：财务数据退居次席，市场紧盯马斯克画的“大饼”",
