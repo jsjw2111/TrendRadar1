@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T13:32:10.820207+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-04-23T15:54:46.815266+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             12,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 13时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 15时54分]"
         },
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 15时54分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
@@ -351,33 +352,36 @@
           "url": "https://www.douyin.com/hot/2475853",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时54分]"
         },
         {
           "title": "GPT image 2深度实测",
           "url": "https://www.douyin.com/hot/2476057",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时54分]"
         },
         {
           "title": "拆解GPT Image2进化背后的隐患",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3GPT%20Image2%E8%BF%9B%E5%8C%96%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E6%82%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时54分]"
         },
         {
           "title": "ChatGPT Images 2.0发布",
