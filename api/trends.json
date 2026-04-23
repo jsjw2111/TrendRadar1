@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T15:54:46.815266+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-23T17:29:46.933974+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             12,
             15,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 15时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 17时29分]"
         },
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 17时29分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
