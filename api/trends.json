@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T21:44:11.238461+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-04-23T23:55:06.594514+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[10时39分 ~ 23时55分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -29,11 +30,12 @@
             15,
             19,
             18,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 21时44分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 23时55分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
@@ -466,11 +468,12 @@
           "url": "https://www.zhihu.com/question/2030589948001084304",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时55分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
