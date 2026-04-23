@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T05:47:06.595749+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-04-24T06:44:50.479603+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 06时44分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -88,8 +88,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 06时44分]"
         },
         {
           "title": "英特尔：数据中心CPU需求强劲，期待与马斯克合作",
@@ -110,7 +110,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
@@ -127,7 +127,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -138,7 +138,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
@@ -155,11 +155,29 @@
           "ranks": [
             8,
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 06时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在S-1文件中，SpaceX警告称，政府对Grok AI的调查可能导致公司失去部分市场准入。",
+          "url": "https://flash.jin10.com/detail/20260424055631858800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         }
       ]
     }
