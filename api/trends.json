@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-23T19:09:55.409008+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-04-23T21:44:11.238461+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770645",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 21时44分]"
+        },
         {
           "title": "马斯克算法撕开日本遮羞布",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
@@ -20,20 +32,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 19时09分]"
-        },
-        {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 19时09分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 21时44分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时46分]"
+        },
+        {
+          "title": "马斯克证实特斯拉Cybercab已投产",
+          "url": "https://www.toutiao.com/trending/7630830020151230470/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "英特尔美股盘后涨3%，马斯克在电话会议上官宣采用英特14A产品技术的交易。",
@@ -338,6 +349,19 @@
           "time_info": "10时39分"
         },
         {
+          "title": "拆解GPT Image2进化背后的隐患",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3GPT%20Image2%E8%BF%9B%E5%8C%96%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E6%82%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时44分]"
+        },
+        {
           "title": "GPT-Image-2正式发布！设计师可以告别「古法设计」了",
           "url": "https://wallstreetcn.com/articles/3770552",
           "source": "华尔街见闻",
@@ -368,18 +392,6 @@
           "ranks": [
             20,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 15时54分]"
-        },
-        {
-          "title": "拆解GPT Image2进化背后的隐患",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3GPT%20Image2%E8%BF%9B%E5%8C%96%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E6%82%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -422,7 +434,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
@@ -448,6 +460,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时46分 ~ 10时39分]"
+        },
+        {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
