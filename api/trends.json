@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T19:39:58.462382+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-04-25T21:06:06.818054+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -168,6 +168,21 @@
           "time_info": "[00时58分 ~ 07时40分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 21时06分]"
+        },
+        {
           "title": "DeepSeek V4强在哪里",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
           "source": "bilibili 热搜",
@@ -226,19 +241,15 @@
           "time_info": "[00时58分 ~ 06时40分]"
         },
         {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
+          "title": "DeepSeek V4 Pro全面测评",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            17,
-            15,
-            13,
-            16
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -277,6 +288,18 @@
           "time_info": "13时12分"
         },
         {
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时06分]"
+        },
+        {
           "title": "百度智能云上线DeepSeek-V4",
           "url": "https://flash.jin10.com/detail/20260425155339949800",
           "source": "金十数据",
@@ -302,6 +325,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时40分 ~ 13时12分]"
+        },
+        {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -336,17 +370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "DeepSeekV4 尺度",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "DeepSeek V4适配国产芯片",
@@ -429,11 +452,12 @@
             9,
             11,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[10时29分 ~ 21时06分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
