@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T06:39:44.032987+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-04-27T07:40:13.467477+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -74,11 +74,23 @@
           "ranks": [
             1,
             4,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时40分]"
+        },
+        {
+          "title": "DeepSeek输入缓存降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -96,15 +108,16 @@
           "time_info": "[00时44分 ~ 06时39分]"
         },
         {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 5,
+          "time_info": "[05时38分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -118,17 +131,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时48分]"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 06时39分]"
         }
       ]
     },
@@ -146,11 +148,12 @@
             17,
             20,
             18,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         }
       ]
     },
