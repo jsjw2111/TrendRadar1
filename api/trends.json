@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T03:23:35.290009+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-04-28T05:03:37.291475+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,52 @@
           "source": "知乎",
           "ranks": [
             18,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 05时03分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
           "url": "https://www.cls.cn/detail/2357012",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 05时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Copilot",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微软：埃森哲正在向其约743,000名员工推广Copilot。",
+          "url": "https://flash.jin10.com/detail/20260428020029897800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "微软：北美地区Copilot故障已解决。",
+          "url": "https://flash.jin10.com/detail/20260428032700352800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     },
@@ -45,25 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 03时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Copilot",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软：埃森哲正在向其约743,000名员工推广Copilot。",
-          "url": "https://flash.jin10.com/detail/20260428020029897800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 05时03分]"
         }
       ]
     }
