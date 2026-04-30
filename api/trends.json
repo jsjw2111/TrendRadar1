@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T19:29:05.459303+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-04-30T21:56:50.855303+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -91,7 +91,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -106,8 +106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时40分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时40分 ~ 21时56分]"
         },
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -131,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时56分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -144,6 +144,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 03时27分]"
+        },
+        {
+          "title": "DeepSeek思考过程好萌",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克为何不惜重金拿下Cursor",
+          "url": "https://www.toutiao.com/trending/7634165333766442539/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 03时27分]"
+        },
+        {
+          "title": "马斯克出庭控诉奥特曼",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%87%BA%E5%BA%AD%E6%8E%A7%E8%AF%89%E5%A5%A5%E7%89%B9%E6%9B%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时26分 ~ 07时58分]"
+        },
+        {
+          "title": "马斯克与SpaceX天价薪酬方案有何深意",
+          "url": "https://www.toutiao.com/trending/7634521845265337862/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
@@ -204,35 +255,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克为何不惜重金拿下Cursor",
-          "url": "https://www.toutiao.com/trending/7634165333766442539/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 03时27分]"
-        },
-        {
-          "title": "马斯克出庭控诉奥特曼",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%87%BA%E5%BA%AD%E6%8E%A7%E8%AF%89%E5%A5%A5%E7%89%B9%E6%9B%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时26分 ~ 07时58分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -241,11 +263,12 @@
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时56分]"
         }
       ]
     },
