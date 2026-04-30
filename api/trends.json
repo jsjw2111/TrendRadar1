@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T05:02:16.345061+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-01T06:54:19.516789+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -65,19 +65,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时54分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时54分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -87,14 +88,14 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时54分]"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克庭审交叉询问环节多次失控",
@@ -105,8 +106,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 06时54分]"
+        },
+        {
+          "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
+          "url": "https://flash.jin10.com/detail/20260501052231391800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "马斯克：将于5月5日发布经过重建的平台。",
