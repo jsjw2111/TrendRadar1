@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:07:11.837000+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-05-01T21:20:09.995834+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             7,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时22分 ~ 19时07分]"
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 21时20分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -155,7 +156,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克庭审交叉询问环节多次失控",
@@ -169,6 +170,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 07时54分]"
+        },
+        {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 21时20分]"
         },
         {
           "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
