@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T19:46:14.203732+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-05-02T21:13:36.295129+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -73,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时13分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
@@ -133,11 +133,12 @@
             10,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 19时46分]"
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 21时13分]"
         },
         {
           "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
@@ -167,8 +168,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时05分 ~ 19时46分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 21时13分]"
         },
         {
           "title": "马斯克去年特斯拉安保费增长70%",
