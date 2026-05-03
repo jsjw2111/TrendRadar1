@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-05-03T22:51:07.065035+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-03T23:49:03.205078+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 6,
       "titles": [
+        {
+          "title": "马斯克去年薪酬实发金额为0",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5,
+            2,
+            28,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时47分 ~ 23时49分]"
+        },
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
           "url": "https://www.cls.cn/detail/2361824",
@@ -36,21 +52,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 10时55分]"
-        },
-        {
-          "title": "马斯克去年薪酬实发金额为0",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            2,
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时47分 ~ 22时51分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
@@ -214,8 +215,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 22时51分]"
+          "appearance_count": 20,
+          "time_info": "[00时49分 ~ 23时49分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
