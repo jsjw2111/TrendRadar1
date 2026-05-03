@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T14:10:23.009888+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-05-03T16:47:26.262620+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
@@ -58,11 +58,23 @@
           "url": "https://flash.jin10.com/detail/20260503115208564800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 16时47分]"
+        },
+        {
+          "title": "马斯克去年薪酬实发金额为0",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时10分"
+          "time_info": "16时47分"
         }
       ]
     },
@@ -110,43 +122,8 @@
       ]
     },
     {
-      "keyword_group": "AI芯片",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 14时10分]"
-        },
-        {
-          "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            10,
-            13,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPT",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "GPT image2有哪些玩法",
@@ -158,12 +135,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 04时48分]"
+        },
+        {
+          "title": "ChatGPT合体OpenClaw",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%90%88%E4%BD%93OpenClaw",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -180,6 +168,53 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 10时55分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 16时47分]"
+        },
+        {
+          "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            10,
+            13,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 07时44分]"
         }
       ]
     }
