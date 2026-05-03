@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:05:47.480284+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-05-03T19:43:35.376916+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时43分]"
         },
         {
           "title": "马斯克1583亿美元薪酬实际为0",
@@ -176,11 +177,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时43分]"
         }
       ]
     },
@@ -199,8 +201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 18时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 19时43分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
