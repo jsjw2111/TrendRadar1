@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-05T00:47:13.775078+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-05T02:16:02.298183+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 02时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "OpenAI",
       "match_count": 1,
