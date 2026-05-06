@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T19:08:32.729631+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-05-06T22:12:11.303533+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -160,11 +160,12 @@
             22,
             7,
             9,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时35分 ~ 13时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时35分 ~ 22时12分]"
         },
         {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
@@ -231,8 +232,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时35分 ~ 13时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时35分 ~ 22时12分]"
         }
       ]
     },
