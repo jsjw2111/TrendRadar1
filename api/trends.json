@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:53:17.528732+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-05-07T14:28:11.548235+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克旗下SpaceX与Anthropic合作，后者可访问Colossus1、月内获得超300兆瓦新增电力容量",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "马斯克解散 xAI，并入 SpaceX 更名为 SpaceXAI，此举整合 AI 与航天，背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2035666551223866960",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
         },
         {
           "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
@@ -67,9 +78,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时28分]"
         }
       ]
     },
