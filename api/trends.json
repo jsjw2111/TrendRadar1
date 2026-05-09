@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:44:06.807786+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-05-10T06:44:46.407725+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时44分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 05时44分]"
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 06时44分]"
         }
       ]
     },
@@ -47,8 +47,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时44分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时44分]"
         }
       ]
     },
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时44分]"
         }
       ]
     }
