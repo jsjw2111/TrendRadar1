@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T01:52:41.319883+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-05-10T03:02:38.396254+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时02分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     },
@@ -41,11 +41,12 @@
           "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     }
