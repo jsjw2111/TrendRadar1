@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T00:56:45.494444+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-10T01:52:41.319883+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时52分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时52分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时52分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时52分]"
         }
       ]
     }
