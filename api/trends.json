@@ -1,129 +1,66 @@
 {
-  "generated_at": "2026-05-14T23:27:15.431231+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-05-15T01:51:16.310095+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 21,
+      "match_count": 9,
       "titles": [
         {
-          "title": "马斯克：SpaceX要求星链（Starlink）不能存在那种令人烦躁的门户页面。Starlink WiFi必须每次都能毫不费力地直接使用，就像在家里联网一样。",
-          "url": "https://flash.jin10.com/detail/20260514054623326800",
-          "source": "金十数据",
+          "title": "马斯克回复360度转圈拍人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "01时51分"
         },
         {
           "title": "马斯克360度转圈拍摄人民大会堂",
           "url": "https://www.toutiao.com/trending/7639626639860780553/",
           "source": "今日头条",
           "ranks": [
-            8,
-            14,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 23时27分]"
-        },
-        {
-          "title": "马斯克第四个走下特朗普专机",
-          "url": "https://www.toutiao.com/trending/7639291790960590889/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3103173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "马斯克携幼子现身人民大会堂",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%BA%E5%B9%BC%E5%AD%90%E7%8E%B0%E8%BA%AB%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
-          "title": "马斯克回复360度转圈拍人民大会堂",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 23时27分]"
-        },
-        {
-          "title": "黄仁勋马斯克库克手势亮了",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E6%89%8B%E5%8A%BF%E4%BA%AE%E4%BA%86",
+          "title": "马斯克回复360度转圈拍摄人民大会堂",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82",
           "source": "百度热搜",
           "ranks": [
-            13,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "马斯克携幼子现身人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%BA%E5%B9%BC%E5%AD%90%E7%8E%B0%E8%BA%AB%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "马斯克小儿子穿新中式现身大会堂",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%A9%BF%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%8E%B0%E8%BA%AB%E5%A4%A7%E4%BC%9A%E5%A0%82",
           "source": "百度热搜",
           "ranks": [
-            21,
-            12
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 23时27分]"
-        },
-        {
-          "title": "马斯克：我对此次会晤感觉不错",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E6%AC%A1%E4%BC%9A%E6%99%A4%E6%84%9F%E8%A7%89%E4%B8%8D%E9%94%99",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时27分]"
-        },
-        {
-          "title": "马斯克库克黄仁勋等进入会谈现场",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%89%E8%BF%9B%E5%85%A5%E4%BC%9A%E8%B0%88%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 15时42分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
           "title": "马斯克：对此次会晤感觉不错",
@@ -133,263 +70,80 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
-          "title": "马斯克360度转圈拍摄人民大会堂",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82",
-          "source": "bilibili 热搜",
+          "title": "马斯克儿子新中式服装虎头包走红",
+          "url": "https://www.douyin.com/hot/2499395",
+          "source": "抖音",
           "ranks": [
-            20,
-            21
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
-          "title": "马斯克第4个下机 黄仁勋换西装",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AC%AC4%E4%B8%AA%E4%B8%8B%E6%9C%BA+%E9%BB%84%E4%BB%81%E5%8B%8B%E6%8D%A2%E8%A5%BF%E8%A3%85",
+          "title": "马斯克：我的儿子正在学习普通话",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E7%9A%84%E5%84%BF%E5%AD%90%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E6%99%AE%E9%80%9A%E8%AF%9D",
           "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "马斯克谈会晤感受：感觉不错，应该会有好的成果",
-          "url": "https://flash.jin10.com/detail/20260514200542850800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "马斯克360度转圈拍摄人民大会堂",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普访华欢迎宴会上雷军和马斯克合照，他们可能交流了什么？会对新能源车行业有影响吗？",
-          "url": "https://www.zhihu.com/question/2038327972331877678",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国负责马斯克与证券交易委员会（SEC）关于推特（Twitter）和解案的联邦法官表示，该案中表现出的“暗道沟通”（back channel communications）是一个“危险信号”。",
-          "url": "https://wallstreetcn.com/livenews/3103195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "马斯克说会晤会有好成果",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E4%BC%9A%E6%99%A4%E4%BC%9A%E6%9C%89%E5%A5%BD%E6%88%90%E6%9E%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "马斯克黄仁勋等进入中美元首会谈现场",
-          "url": "https://www.toutiao.com/trending/7639587297951780379/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "马斯克：只有我和黄仁勋坐上空军一号",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%8F%AA%E6%9C%89%E6%88%91%E5%92%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9D%90%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "马斯克表示，他希望在中国做成“很多好事情”。",
-          "url": "https://wallstreetcn.com/livenews/3103376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OpenAI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3103215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260514041348939800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 06时13分]"
-        },
-        {
-          "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
-          "url": "https://flash.jin10.com/detail/20260514043922541800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "报道：微软寻求AI交易，为“后OpenAI时代”做准备",
-          "url": "https://wallstreetcn.com/livenews/3103215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。",
-          "url": "https://wallstreetcn.com/livenews/3103666",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么 GPT-image-2 生成偏魔幻、梦境、玄幻类题材容易出现「碎渣感」？",
-          "url": "https://www.zhihu.com/question/2037211734738301895",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时26分 ~ 23时27分]"
+          "time_info": "01时51分"
         },
         {
-          "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
-          "url": "https://wallstreetcn.com/livenews/3103184",
+          "title": "马斯克：我对此次会晤感觉不错",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E6%AC%A1%E4%BC%9A%E6%99%A4%E6%84%9F%E8%A7%89%E4%B8%8D%E9%94%99",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
+          "url": "https://wallstreetcn.com/livenews/3103841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时51分"
+        },
         {
-          "title": "保姆级Claude Code速成攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            26,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时05分 ~ 15时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
-          "url": "https://flash.jin10.com/detail/20260514034444194800",
+          "title": "苹果与OpenAI关系紧张 后者拟诉诸法律",
+          "url": "https://flash.jin10.com/detail/20260515004813773800",
           "source": "金十数据",
           "ranks": [
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "通义千问",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时51分"
+        },
         {
-          "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
-          "url": "https://www.zhihu.com/question/2037920346959868531",
-          "source": "知乎",
+          "title": "据科技媒体TechCrunsh：OpenAI表示，黑客在最新的代码安全问题发生后窃取了一些数据。",
+          "url": "https://flash.jin10.com/detail/20260515002730015800",
+          "source": "金十数据",
           "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "01时51分"
         }
       ]
     }
