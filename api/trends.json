@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T17:35:28.845792+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-05-20T20:34:31.177500+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 20时34分]"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -200,7 +200,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
