@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:05:43.068824+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-22T06:19:59.933718+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 06时19分]"
         },
         {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
@@ -25,7 +25,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         }
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 06时19分]"
         },
         {
           "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
@@ -76,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 06时19分]"
         },
         {
           "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
@@ -87,8 +87,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 06时19分]"
         }
       ]
     },
@@ -115,7 +115,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         }
