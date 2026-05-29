@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T11:37:34.548809+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-05-29T15:57:22.546892+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2043503794751791638",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 15时57分]"
         },
         {
           "title": "如何看待微软取消了 Claude Code 订阅？",
@@ -58,9 +59,65 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260529111524394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美无人机用星链太多，马斯克要多收钱",
+          "url": "https://news.ifeng.com/c/8tUyr3DnDjj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 11时37分]"
+        },
+        {
+          "title": "马斯克回应新格伦火箭爆炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E6%96%B0%E6%A0%BC%E4%BC%A6%E7%81%AB%E7%AE%AD%E7%88%86%E7%82%B8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
@@ -83,36 +140,19 @@
       ]
     },
     {
-      "keyword_group": "OpenAI",
+      "keyword_group": "AI芯片",
       "match_count": 1,
       "titles": [
         {
-          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260529111524394800",
-          "source": "金十数据",
+          "title": "国产AI芯片三国杀",
+          "url": "https://www.toutiao.com/trending/7645160711315787327/",
+          "source": "今日头条",
           "ranks": [
-            12
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美无人机用星链太多，马斯克要多收钱",
-          "url": "https://news.ifeng.com/c/8tUyr3DnDjj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时37分 ~ 11时37分]"
+          "time_info": "15时57分"
         }
       ]
     }
