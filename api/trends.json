@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-29T07:17:24.419661+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-29T11:37:34.548809+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
+          "url": "https://www.zhihu.com/question/2043503794751791638",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
         {
           "title": "如何看待微软取消了 Claude Code 订阅？",
           "url": "https://www.zhihu.com/question/2042203258689672770",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "Claude Opus 4.8版本来了",
+          "url": "https://www.baidu.com/s?wd=Claude+Opus+4.8%E7%89%88%E6%9C%AC%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         }
       ]
     },
@@ -51,11 +73,29 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 07时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 11时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260529111524394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         }
       ]
     },
@@ -71,8 +111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 07时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 11时37分]"
         }
       ]
     }
