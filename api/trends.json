@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T17:17:32.900192+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-05-30T19:21:20.776032+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 19时21分]"
         }
       ]
     },
@@ -74,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 19时21分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX很对美国“金穹”反导系统卫星赢得40亿美元合同。",
@@ -117,11 +118,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 19时21分]"
         }
       ]
     }
