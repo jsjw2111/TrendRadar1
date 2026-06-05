@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T17:51:48.048376+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-06-05T20:38:25.031681+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,12 @@
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时38分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -86,9 +87,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时38分]"
         },
         {
           "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
