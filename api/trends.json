@@ -1,41 +1,23 @@
 {
-  "generated_at": "2026-06-06T14:53:53.777345+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-06-06T17:27:07.734775+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "OpenAI",
-      "match_count": 2,
+      "keyword_group": "马斯克",
+      "match_count": 3,
       "titles": [
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 07时10分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
         {
           "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
           "url": "https://flash.jin10.com/detail/20260606053856908800",
@@ -57,6 +39,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 07时10分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 17时27分]"
         }
       ]
     }
