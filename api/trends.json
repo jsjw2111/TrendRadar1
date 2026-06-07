@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T20:22:03.172061+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-06-07T22:53:30.334263+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
     },
     {
       "keyword_group": "GPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 22时53分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时57分 ~ 20时22分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         }
       ]
     },
@@ -145,8 +156,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 20时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 22时53分]"
         }
       ]
     }
