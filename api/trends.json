@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T13:07:07.860472+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-06-09T17:44:04.243168+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
       "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 17时44分]"
+        },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3116363",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 08时06分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -134,19 +135,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 17时44分]"
         },
         {
           "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
           "url": "https://news.ifeng.com/c/8toKe0HelhI",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 17时44分]"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
@@ -236,7 +238,7 @@
     },
     {
       "keyword_group": "GPT",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
@@ -248,6 +250,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 06时28分]"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
         }
       ]
     },
@@ -280,8 +293,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 17时44分]"
         }
       ]
     }
