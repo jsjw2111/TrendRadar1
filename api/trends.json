@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T18:02:18.143522+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-06-10T21:41:05.610607+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -94,6 +94,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "GPT 为什么会生成这么诡异的图片？有没有研究者能解释为什么会出现这一现象？",
+          "url": "https://www.zhihu.com/question/2047033714614579489",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         }
       ]
     },
