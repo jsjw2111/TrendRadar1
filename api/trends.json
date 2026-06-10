@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T03:43:36.923084+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-06-11T06:03:44.398842+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
@@ -43,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 06时03分]"
         }
       ]
     },
@@ -62,6 +62,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
+          "url": "https://wallstreetcn.com/livenews/3117706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     }
