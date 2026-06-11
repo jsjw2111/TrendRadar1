@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T18:25:22.715936+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-06-11T22:37:33.138178+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 18时25分]"
+        },
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
@@ -74,6 +85,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加拿大隐私事务专员：xAI违反了加拿大隐私法。X公司和xAI推出了Grok AI驱动的图像生成工具，但未实施适当的安全措施。",
+          "url": "https://flash.jin10.com/detail/20260611220823890800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     },
