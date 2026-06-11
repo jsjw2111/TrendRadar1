@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T05:21:47.841127+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-06-12T07:22:47.931801+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 07时22分]"
         },
         {
           "title": "Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博）",
@@ -26,7 +27,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -45,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 07时22分]"
         }
       ]
     }
