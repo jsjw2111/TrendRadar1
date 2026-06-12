@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T03:05:32.581777+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-06-13T05:44:49.979905+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/articles/3774523",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 05时44分]"
         },
         {
           "title": "马斯克亮相敲钟仪式",
@@ -81,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         }
