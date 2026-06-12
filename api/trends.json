@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T07:22:47.931801+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-12T11:59:15.130339+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时13分 ~ 07时22分]"
+        },
+        {
+          "title": "马斯克成为人类首位万亿富翁",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%90%E4%B8%BA%E4%BA%BA%E7%B1%BB%E9%A6%96%E4%BD%8D%E4%B8%87%E4%BA%BF%E5%AF%8C%E7%BF%81%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博）",
@@ -35,7 +46,7 @@
     },
     {
       "keyword_group": "OpenAI",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -46,8 +57,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时22分]"
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 11时59分]"
+        },
+        {
+          "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
+          "url": "https://www.cls.cn/detail/2397603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         }
       ]
     }
