@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T19:58:47.010000+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-06-14T22:17:54.101296+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 19时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 22时17分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -163,11 +163,12 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 22时17分]"
         }
       ]
     }
