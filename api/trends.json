@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T17:35:37.069371+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-06-14T19:58:47.010000+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 19时58分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 19时58分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -46,20 +60,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 13时50分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 17时35分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -166,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时58分]"
         }
       ]
     }
