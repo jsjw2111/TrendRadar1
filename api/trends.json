@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T02:17:28.557299+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-18T05:24:38.504375+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     }
