@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T14:20:48.866504+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-06-19T19:23:47.070853+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时13分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[06时13分 ~ 19时23分]"
         },
         {
           "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
@@ -29,30 +30,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时38分 ~ 08时27分]"
+          "appearance_count": 6,
+          "time_info": "[03时38分 ~ 19时23分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
           "url": "https://wallstreetcn.com/articles/3775064",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 19时23分]"
         },
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 19时23分]"
         }
       ]
     },
@@ -66,22 +69,24 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 19时23分]"
         },
         {
           "title": "如何评价 DeepSeek 的识图模式？",
           "url": "https://www.zhihu.com/question/2032903059739767247",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 19时23分]"
         },
         {
           "title": "DeepSeek能火只靠便宜吗",
@@ -144,6 +149,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
+          "url": "https://wallstreetcn.com/articles/3775047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     }
