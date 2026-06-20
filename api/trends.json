@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T19:21:14.907330+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-06-20T22:04:13.972567+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时58分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[01时58分 ~ 22时04分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -69,6 +69,17 @@
           "time_info": "[19时20分 ~ 19时21分]"
         },
         {
+          "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33418162",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
+        },
+        {
           "title": "马斯克称，未来，人类将投入难以想象的巨额资金来制造反物质，以实现前往其他恒星系的星际旅行。",
           "url": "https://flash.jin10.com/detail/20260620024753024800",
           "source": "金十数据",
@@ -78,6 +89,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
         }
       ]
     },
@@ -95,6 +123,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
         }
       ]
     }
