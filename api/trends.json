@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:58:41.647313+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-20T08:15:28.956583+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时15分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
           "url": "https://wallstreetcn.com/articles/3775064",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时15分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -36,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 08时15分]"
         },
         {
           "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
