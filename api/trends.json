@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:07:12.981536+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-06-21T14:02:38.763713+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 08时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 14时02分]"
         },
         {
           "title": "马斯克暴赚7800亿",
@@ -44,6 +44,75 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时12分]"
+        },
+        {
+          "title": "马斯克拿下7800亿元天价薪酬",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%BF%E4%B8%8B7800%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E8%96%AA%E9%85%AC",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
+          "url": "https://flash.jin10.com/detail/20260621120212050800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI Agent",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 08时07分]"
+        },
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
@@ -82,21 +151,19 @@
       ]
     },
     {
-      "keyword_group": "AI Agent",
+      "keyword_group": "Grok",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
-          "source": "华尔街见闻",
+          "title": "马斯克旗下AI助手Grok登陆CarPlay",
+          "url": "https://www.toutiao.com/trending/7653646059227168774/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            7
+            30
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时11分 ~ 08时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
