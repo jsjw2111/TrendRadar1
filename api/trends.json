@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T21:06:30.418982+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-06-21T23:52:19.826490+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
           "ranks": [
             8,
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 23时52分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
@@ -128,11 +129,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 21时06分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 23时52分]"
         }
       ]
     },
