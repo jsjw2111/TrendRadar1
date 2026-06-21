@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T06:07:34.604446+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-06-21T08:07:12.981536+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 08时07分]"
         },
         {
           "title": "马斯克暴赚7800亿",
@@ -25,11 +26,12 @@
           "ranks": [
             17,
             24,
-            30
+            30,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 08时07分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
@@ -42,6 +44,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
+          "url": "https://www.zhihu.com/question/2050866813181994242",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         }
       ]
     },
@@ -72,11 +91,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 06时07分]"
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 08时07分]"
         }
       ]
     },
@@ -89,11 +109,12 @@
           "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 06时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 08时07分]"
         }
       ]
     }
