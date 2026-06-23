@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-23T08:07:15.146884+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-23T13:02:21.623217+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
         {
           "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
           "url": "https://flash.jin10.com/detail/20260623043807971800",
