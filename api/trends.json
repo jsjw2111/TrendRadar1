@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T20:08:53.081572+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-06-23T23:49:23.044184+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 23时49分]"
+        },
+        {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
@@ -58,18 +70,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时28分 ~ 08时07分]"
-        },
-        {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 20时08分]"
         }
       ]
     },
@@ -101,7 +101,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
