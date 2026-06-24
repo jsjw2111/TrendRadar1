@@ -1,158 +1,22 @@
 {
-  "generated_at": "2026-06-24T22:32:25.235116+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-06-25T01:05:52.328579+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克旗下太空探索公司SpaceX初步收涨约1%，结束此前连续三个交易日下跌的趋势。",
-          "url": "https://wallstreetcn.com/livenews/3123628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "孙正义说马斯克太空数据中心没啥价值",
-          "url": "https://www.toutiao.com/trending/7654508707421945875/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "孙正义反驳马斯克：太空数据中心“没意义”，AI竞赛将在地球决胜",
-          "url": "https://wallstreetcn.com/articles/3775297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 最新发布的 Claude Tag？",
-          "url": "https://www.zhihu.com/question/2053047749281690000",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "市场消息：Anthropic希望Claude以更深入的方式融入Slack聊天。",
-          "url": "https://flash.jin10.com/detail/20260624010703489800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
     {
       "keyword_group": "Gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 19时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
+          "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
+          "url": "https://flash.jin10.com/detail/20260625002330921800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
-          "url": "https://wallstreetcn.com/livenews/3124062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
-          "url": "https://wallstreetcn.com/livenews/3123591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "千问正式发布 Qwen-AgentWorld",
-          "url": "https://flash.jin10.com/detail/20260624113659179800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "01时05分"
         }
       ]
     }
