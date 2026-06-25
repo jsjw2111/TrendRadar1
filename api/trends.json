@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T18:42:10.539965+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-06-25T21:18:53.098343+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 21时18分]"
         },
         {
           "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
@@ -84,6 +84,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "屎山BUG半决赛之DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%8E%E5%B1%B1BUG%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B9%8BDeepSeek",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     }
