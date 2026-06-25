@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T15:42:42.643551+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-06-25T18:42:10.539965+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 18时42分]"
         },
         {
           "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
@@ -81,7 +81,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
