@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T12:53:43.921549+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-06-27T15:50:04.757299+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
@@ -43,6 +43,28 @@
           "time_info": "[02时52分 ~ 04时47分]"
         },
         {
+          "title": "GPT-5.6深夜亮相！性能反超竞品Mythos 但大多数用户暂无缘使用",
+          "url": "https://www.cls.cn/detail/2410746",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 15时50分]"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 15时50分]"
+        },
+        {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
           "url": "https://flash.jin10.com/detail/20260626233456947800",
           "source": "金十数据",
@@ -71,7 +93,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
@@ -142,7 +164,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
