@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T01:26:54.741429+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-04T03:23:03.236702+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "曝阿里7月10日起全面禁用Claude",
           "url": "https://www.toutiao.com/trending/7658254613019102783/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
           "url": "https://www.cls.cn/detail/2416593",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
           "url": "https://www.zhihu.com/question/2056394331271999624",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
         }
       ]
     },
@@ -62,11 +65,12 @@
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时23分]"
         }
       ]
     }
