@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-07-04T03:23:03.236702+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-07-04T05:06:53.965372+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
       "match_count": 4,
       "titles": [
+        {
+          "title": "曝阿里7月10日起全面禁用Claude",
+          "url": "https://www.toutiao.com/trending/7658254613019102783/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时06分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时06分]"
+        },
         {
           "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
           "url": "https://www.zhihu.com/question/2056384180200498322",
@@ -15,32 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
-        },
-        {
-          "title": "曝阿里7月10日起全面禁用Claude",
-          "url": "https://www.toutiao.com/trending/7658254613019102783/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时06分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -48,11 +50,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时06分]"
         }
       ]
     },
@@ -69,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时06分]"
         }
       ]
     }
