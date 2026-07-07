@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T05:25:04.790816+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-07-08T07:02:41.552975+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 07时02分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 05时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 07时02分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -48,22 +48,24 @@
           "url": "https://www.toutiao.com/trending/7658530038409969718/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时02分]"
         },
         {
           "title": "DeepSeek被曝自研芯片",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 07时02分]"
         }
       ]
     },
@@ -117,7 +119,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -128,7 +130,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         }
