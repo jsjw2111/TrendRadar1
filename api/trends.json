@@ -1,246 +1,84 @@
 {
-  "generated_at": "2026-07-08T22:41:01.772428+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-07-09T00:40:01.679247+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 6,
+      "keyword_group": "Grok",
+      "match_count": 2,
       "titles": [
         {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 13时52分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 07时02分]"
-        },
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 22时41分]"
-        },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时03分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时02分]"
-        },
-        {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Anthropic：Claude CoWork投放到移动端和网页。",
-          "url": "https://wallstreetcn.com/livenews/3130092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "阿里 全员卸载Claude",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时28分]"
-        },
-        {
-          "title": "工信部发布ClaudeCode风险提示",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83ClaudeCode%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
-          "url": "https://flash.jin10.com/detail/20260708000001537800",
+          "title": "马斯克：（关于Grok）2万亿参数模型预计下月向客户提供。",
+          "url": "https://flash.jin10.com/detail/20260709003603155800",
           "source": "金十数据",
           "ranks": [
-            18
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "00时40分"
         },
         {
-          "title": "Anthropic：Claude Cowork将登陆移动端和网页。",
-          "url": "https://flash.jin10.com/detail/20260707235927623800",
+          "title": "马斯克：根据用户需求，我们几乎每天都在持续改进Grok Build工具链和1.5万亿参数基础模型。",
+          "url": "https://flash.jin10.com/detail/20260709003516795800",
           "source": "金十数据",
           "ranks": [
-            19
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "00时40分"
         }
       ]
     },
     {
       "keyword_group": "GPT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
-          "url": "https://wallstreetcn.com/livenews/3130368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "据报道，特朗普政府解除对OpenAI GPT 5.6的限制。",
-          "url": "https://wallstreetcn.com/livenews/3130739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OpenAI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "再挖OpenAI！腾讯宣布OpenAI前研究员田永龙入职，参与VLM研发",
-          "url": "https://wallstreetcn.com/livenews/3130374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3130102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
-          "url": "https://wallstreetcn.com/livenews/3130157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
-          "url": "https://wallstreetcn.com/livenews/3130107",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
           "ranks": [
-            24
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3130812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "00时40分"
         }
       ]
     }
