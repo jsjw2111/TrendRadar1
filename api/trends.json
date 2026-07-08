@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T13:52:19.817231+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-07-08T16:28:31.856571+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -90,11 +90,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时28分]"
         },
         {
           "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
@@ -131,7 +132,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -187,7 +188,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
