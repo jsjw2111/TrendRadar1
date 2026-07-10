@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T02:24:11.300259+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-07-11T04:23:51.073278+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：马斯克要求特斯拉(TSLA.O)员工转向使用Grok。",
+          "url": "https://flash.jin10.com/detail/20260711040529087800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
@@ -32,7 +49,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         }
