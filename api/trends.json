@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T11:19:06.423770+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-07-10T15:36:34.521037+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 15时36分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
