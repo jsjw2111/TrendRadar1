@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T18:54:08.603155+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-07-10T21:12:03.365656+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 21时12分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
