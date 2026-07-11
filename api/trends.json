@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T14:13:17.536402+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-07-11T16:47:15.360462+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 16时47分]"
         },
         {
           "title": "SpaceX投资纠纷落幕，马斯克盟友Kahlon胜诉。（彭博法律Blaw）",
