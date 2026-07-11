@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T11:15:18.659688+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-07-11T14:13:17.536402+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -62,7 +62,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -73,7 +73,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         }
@@ -88,11 +88,12 @@
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 14时13分]"
         },
         {
           "title": "SpaceX投资纠纷落幕，马斯克盟友Kahlon胜诉。（彭博法律Blaw）",
