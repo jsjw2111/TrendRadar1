@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T18:27:14.533715+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-13T21:27:24.415216+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -86,8 +86,19 @@
     },
     {
       "keyword_group": "AI芯片",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英特尔将斥资50亿欧元扩建爱尔兰工厂，以保持在AI芯片竞赛中的竞争力",
+          "url": "https://wallstreetcn.com/livenews/3132915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
         {
           "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
           "url": "https://wallstreetcn.com/livenews/3132618",
