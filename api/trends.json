@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T07:55:16.064986+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-07-13T10:47:15.972868+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时47分]"
         },
         {
           "title": "OpenAI宣称攻克CDC猜想",
@@ -29,12 +29,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "苹果指控OpenAI偷窃商业机密",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -47,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时48分]"
+        },
+        {
+          "title": "Claude延长Fable5访问",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E5%BB%B6%E9%95%BFFable5%E8%AE%BF%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
         }
       ]
     }
