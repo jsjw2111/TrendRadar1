@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T16:04:59.697377+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-07-14T18:47:09.566656+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时47分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -62,18 +63,30 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 16时04分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 18时47分]"
+        },
+        {
+          "title": "DeepSeek首轮融资完成仅一个月后考虑启动新一轮融资",
+          "url": "https://flash.jin10.com/detail/20260714181228752800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         }
       ]
     },
