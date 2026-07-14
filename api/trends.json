@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T05:58:15.604679+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-07-15T07:01:57.945257+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -58,7 +58,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -108,11 +108,12 @@
           "ranks": [
             8,
             5,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时01分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -141,8 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 07时01分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -184,11 +185,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时12分 ~ 07时01分]"
         }
       ]
     }
