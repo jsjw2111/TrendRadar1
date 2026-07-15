@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T17:11:01.714799+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-07-15T19:29:51.319345+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -121,7 +121,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -143,8 +143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 19时29分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -156,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "曝DeepSeek计划明年上市",
