@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T19:29:51.319345+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-07-15T21:43:58.976855+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -140,11 +140,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时10分 ~ 21时43分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -162,11 +163,12 @@
           "url": "https://www.cls.cn/detail/2427193",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时43分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
