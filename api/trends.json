@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:01:57.945257+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-07-15T08:02:11.297204+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI计划推出家用智能音箱",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E6%8E%A8%E5%87%BA%E5%AE%B6%E7%94%A8%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "OpenAI：我们相信竞争，也支持人们自由选择工作地点。",
@@ -112,8 +123,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时03分 ~ 08时02分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -142,8 +153,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 08时02分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -186,11 +197,12 @@
           "ranks": [
             17,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[04时12分 ~ 08时02分]"
         }
       ]
     }
