@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T11:31:55.055506+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-07-17T14:16:12.244897+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时16分]"
         },
         {
           "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
@@ -117,11 +118,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时16分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
