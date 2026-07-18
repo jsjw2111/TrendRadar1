@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-07-18T17:25:59.852170+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-07-18T19:04:21.997173+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 19时04分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "DeepSeek准确估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E7%A1%AE%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT",
       "match_count": 2,
@@ -16,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 19时04分]"
         },
         {
           "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
@@ -26,39 +67,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 17时25分]"
-        },
-        {
-          "title": "DeepSeek准确估值意外曝光",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E7%A1%AE%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         }
       ]
     },
