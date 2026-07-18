@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T05:52:52.764246+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-19T06:51:40.732808+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时51分]"
         }
       ]
     },
@@ -32,11 +32,29 @@
           "ranks": [
             17,
             15,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     }
