@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-19T21:37:27.142315+08:00",
-  "total_titles_processed": 1435,
+  "generated_at": "2026-07-19T22:56:02.021569+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Qwen",
       "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
+          "url": "https://www.zhihu.com/question/2062219946885657098",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时56分]"
+        },
         {
           "title": "阿里Token Plan个人版发布，Qwen3.8-Max预览版同步上线",
           "url": "https://flash.jin10.com/detail/20260719185426934800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
-        },
-        {
-          "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
-          "url": "https://www.zhihu.com/question/2062219946885657098",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "阿里Token Plan个人版发布，Qwen3.8-Max预览版同步上线",
@@ -97,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 21时37分]"
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 22时56分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -123,6 +124,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            20,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时56分]"
+        },
+        {
           "title": "马斯克称看中国机器人格斗赛看乐了",
           "url": "https://www.toutiao.com/trending/7663919447194845220/",
           "source": "今日头条",
@@ -132,19 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "马斯克宣称要赶超Kimi",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时37分]"
         }
       ]
     },
