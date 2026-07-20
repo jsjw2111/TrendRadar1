@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T18:11:05.968847+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-07-20T21:06:30.394821+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时58分]"
+        },
+        {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "中信建投：Kimi K3模型达全球Tier1，国产模型再现DeepSeek时刻",
@@ -44,7 +55,7 @@
     },
     {
       "keyword_group": "AI芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
@@ -68,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -137,7 +159,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         }
@@ -171,11 +193,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 18时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 21时06分]"
         }
       ]
     }
