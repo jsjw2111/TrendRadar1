@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T02:03:23.536666+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-21T04:21:46.408231+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/2061575313973416591",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时21分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时21分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时21分]"
         }
       ]
     }
