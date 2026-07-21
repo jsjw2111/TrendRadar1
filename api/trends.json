@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T16:28:59.955183+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-07-21T19:08:56.699204+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -53,6 +53,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
@@ -92,7 +114,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -103,7 +125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -133,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 19时08分]"
         }
       ]
     },
@@ -149,11 +171,12 @@
           "ranks": [
             7,
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 19时08分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -161,11 +184,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 19时08分]"
         }
       ]
     },
