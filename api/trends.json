@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-23T19:10:14.765455+08:00",
-  "total_titles_processed": 1247,
-  "failed_sources": [],
+  "generated_at": "2026-07-23T22:02:25.606293+08:00",
+  "total_titles_processed": 1436,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [
     {
       "keyword_group": "马斯克",
@@ -12,11 +14,12 @@
           "url": "https://wallstreetcn.com/articles/3777724",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 22时02分]"
         },
         {
           "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
@@ -25,11 +28,12 @@
           "ranks": [
             11,
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 22时02分]"
         },
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -390,7 +394,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -420,8 +424,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 22时02分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
@@ -469,11 +473,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 22时02分]"
         }
       ]
     }
