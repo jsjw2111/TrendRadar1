@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T20:19:11.289642+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-07-24T22:55:04.106456+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 20时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 22时55分]"
         },
         {
           "title": "菲尔兹奖得主谈加入OpenAI",
@@ -37,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时55分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -135,11 +136,12 @@
           "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时55分]"
         }
       ]
     },
