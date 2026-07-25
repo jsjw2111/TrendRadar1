@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T05:56:41.028087+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-26T06:57:15.362407+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时57分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -58,11 +58,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 06时57分]"
         }
       ]
     },
@@ -75,11 +76,12 @@
           "url": "https://flash.jin10.com/detail/20260726044659225800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时57分]"
         }
       ]
     }
