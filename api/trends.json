@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T15:37:50.888593+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-07-26T18:01:12.142845+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -53,9 +53,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时01分]"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -64,7 +64,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         }
@@ -125,7 +125,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         }
@@ -141,11 +141,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 15时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 18时01分]"
         }
       ]
     },
