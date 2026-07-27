@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:07:01.413118+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-27T10:54:32.394945+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 10时54分]"
         },
         {
           "title": "黄仁勋、马斯克，最新涉华表态",
@@ -41,6 +42,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 06时00分]"
+        },
+        {
+          "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661243",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
