@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T04:56:42.902213+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-07-30T06:02:35.081196+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -54,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 06时02分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX寻求收购Terrestrial Spectrum。（Semafor）",
@@ -137,7 +137,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         }
