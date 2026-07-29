@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-29T21:02:22.106540+08:00",
-  "total_titles_processed": 1365,
-  "failed_sources": [],
+  "generated_at": "2026-07-29T23:16:31.301091+08:00",
+  "total_titles_processed": 1505,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "OpenAI",
@@ -56,7 +58,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "烤肉师傅回应长相酷似马斯克走红",
@@ -82,6 +84,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 12时12分]"
+        },
+        {
+          "title": "这次，马斯克都看不下去了",
+          "url": "https://news.ifeng.com/c/8vA3lGhS6lv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         }
       ]
     },
