@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:02:35.081196+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-07-30T07:59:59.853717+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
@@ -30,6 +30,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
           "url": "https://flash.jin10.com/detail/20260730003826526800",
           "source": "金十数据",
@@ -44,7 +55,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "这次，马斯克都看不下去了",
@@ -54,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时59分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX寻求收购Terrestrial Spectrum。（Semafor）",
@@ -67,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美媒：马斯克计划在中期选举中大力支持共和党",
+          "url": "https://flash.jin10.com/detail/20260730070850843800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "马斯克两个核心资产遭遇市场拷问",
