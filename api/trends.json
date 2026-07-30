@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T03:26:19.624993+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-07-31T05:11:38.550822+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 05时11分]"
         },
         {
           "title": "OpenAI：Terra API定价为每百万输入Token2美元，每百万输出Token12美元。",
