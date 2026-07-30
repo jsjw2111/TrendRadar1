@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-30T07:59:59.853717+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-07-30T11:16:01.915662+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
           "url": "https://wallstreetcn.com/livenews/3141802",
@@ -36,7 +47,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -86,7 +97,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -100,6 +111,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         }
       ]
     },
@@ -124,23 +163,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI针对学术研究员推出ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 1,
