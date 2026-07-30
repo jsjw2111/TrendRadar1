@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T14:29:09.965692+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-07-30T17:31:51.893831+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -150,8 +150,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 17时31分]"
         },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
