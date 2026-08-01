@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:20:33.723565+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-08-01T23:02:21.741855+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时28分 ~ 21时20分]"
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 23时02分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -79,6 +80,18 @@
           "time_info": "15时28分"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 23时02分]"
+        },
+        {
           "title": "实测DeepSeek V4 Flash",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -89,18 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时21分 ~ 18时01分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时20分]"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -401,7 +402,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         }
