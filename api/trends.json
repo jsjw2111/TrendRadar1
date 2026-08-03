@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T03:37:07.640685+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-08-04T05:02:45.555941+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -38,19 +38,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
           "url": "https://www.zhihu.com/question/2067545767003120313",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时36分 ~ 05时02分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -58,11 +59,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "DeepSeek登顶全球第一",
@@ -70,11 +72,12 @@
           "source": "微博",
           "ranks": [
             14,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -82,11 +85,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         }
       ]
     },
@@ -125,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "OpenAI：我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。",
@@ -135,7 +139,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -146,7 +150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         }
@@ -163,7 +167,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -174,7 +178,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         }
@@ -193,8 +197,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         }
       ]
     }
