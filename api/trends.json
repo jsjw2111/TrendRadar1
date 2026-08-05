@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T08:03:10.368700+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-08-05T12:10:01.345901+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -137,7 +137,7 @@
     },
     {
       "keyword_group": "OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -149,6 +149,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 08时03分]"
+        },
+        {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
