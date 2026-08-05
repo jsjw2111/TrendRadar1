@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T18:36:23.247705+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-08-05T20:53:18.907539+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -118,7 +118,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -267,9 +267,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek和GPT AI牛马最佳组合",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%92%8CGPT%20AI%E7%89%9B%E9%A9%AC%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
         }
       ]
     },
