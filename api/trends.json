@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:39:28.454121+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-08-05T18:36:23.247705+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克又悄悄做出一个独角兽",
@@ -74,7 +74,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "马斯克回应一个月亏掉2.45万亿",
+          "url": "https://www.toutiao.com/trending/7669518703364640297/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
@@ -169,8 +180,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 18时36分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -209,7 +220,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek斩杀了谁",
@@ -248,6 +259,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 06时12分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
