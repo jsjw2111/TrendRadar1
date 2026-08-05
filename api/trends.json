@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T03:30:13.413624+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-08-06T05:08:37.032687+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时08分]"
         },
         {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI。",
@@ -26,7 +26,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         }
@@ -92,11 +92,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 05时08分]"
         }
       ]
     }
