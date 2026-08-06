@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T15:39:47.759288+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-08-06T18:43:13.518394+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,65 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 18时43分]"
+        },
+        {
           "title": "DeepSeek拟上调API服务定价",
           "url": "https://www.douyin.com/hot/2599312",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 18时43分]"
         },
         {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 18时43分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 18时43分]"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 18时43分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -52,27 +80,16 @@
           "time_info": "12时12分"
         },
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            4
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时39分]"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 18时43分]"
         },
         {
           "title": "DeepSeek计划大幅涨价",
@@ -86,24 +103,13 @@
           "time_info": "12时12分"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
           "title": "DeepSeek推理到一半说自己饿了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8E%A8%E7%90%86%E5%88%B0%E4%B8%80%E5%8D%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%A5%BF%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -156,7 +162,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -200,7 +206,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -208,7 +214,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克回应一个月亏掉2.45万亿",
@@ -223,6 +229,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 06时59分]"
+        },
+        {
+          "title": "马斯克和他四家公司的“情感纠纷”",
+          "url": "https://www.toutiao.com/trending/7670829720279191076/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "美国总统特朗普：我们很欣赏马斯克。",
@@ -253,7 +270,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -304,7 +321,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
