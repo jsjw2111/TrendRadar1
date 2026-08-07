@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:46:06.414458+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-08-07T21:03:15.126697+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -64,9 +64,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 21时03分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时59分 ~ 10时55分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -149,11 +149,12 @@
           "ranks": [
             15,
             13,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[14时10分 ~ 21时03分]"
         },
         {
           "title": "OpenAI为免费用户升级GPT-5.6 Luna",
