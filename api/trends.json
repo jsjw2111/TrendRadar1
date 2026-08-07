@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T22:53:14.345317+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-08-07T23:56:38.786704+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,17 @@
           "time_info": "[07时59分 ~ 19时46分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时14分 ~ 23时56分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时59分 ~ 10时55分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时14分 ~ 22时53分]"
         },
         {
           "title": "DeepSeek终于打算激进扩张了",
@@ -151,11 +151,12 @@
             13,
             9,
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时10分 ~ 22时53分]"
+          "appearance_count": 9,
+          "time_info": "[14时10分 ~ 23时56分]"
         },
         {
           "title": "OpenAI为免费用户升级GPT-5.6 Luna",
@@ -179,11 +180,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 22时53分]"
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时56分]"
         }
       ]
     },
