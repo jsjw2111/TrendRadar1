@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T10:55:09.258378+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-08-07T12:55:42.297896+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 10时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 12时55分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -43,23 +43,24 @@
           "time_info": "07时59分"
         },
         {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 12时55分]"
+        },
+        {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
           "url": "https://www.cls.cn/detail/2447658",
           "source": "财联社热门",
           "ranks": [
             7,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 10时55分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -118,8 +130,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时55分]"
         }
       ]
     }
