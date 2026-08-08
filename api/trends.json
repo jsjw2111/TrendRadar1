@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:57:26.422643+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-08-08T13:43:36.952171+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             14,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时54分 ~ 12时57分]"
+          "appearance_count": 11,
+          "time_info": "[03时54分 ~ 13时43分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 13时43分]"
         }
       ]
     },
@@ -50,17 +51,6 @@
       "keyword_group": "OpenAI",
       "match_count": 3,
       "titles": [
-        {
-          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
@@ -72,8 +62,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 13时43分]"
+        },
+        {
+          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -100,20 +101,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 13时43分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
           "url": "https://flash.jin10.com/detail/20260808121316604800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 13时43分]"
         }
       ]
     },
@@ -149,11 +151,12 @@
             19,
             17,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 13时43分]"
         }
       ]
     }
