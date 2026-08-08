@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:33:35.951747+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-08-08T19:28:51.441415+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时37分 ~ 18时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时37分 ~ 19时28分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -30,11 +30,12 @@
             14,
             12,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时54分 ~ 18时33分]"
+          "appearance_count": 19,
+          "time_info": "[03时54分 ~ 19时28分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -107,11 +108,12 @@
             11,
             16,
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时57分 ~ 18时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时57分 ~ 19时28分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -135,7 +137,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
@@ -176,11 +178,12 @@
             23,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时54分 ~ 18时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时54分 ~ 19时28分]"
         }
       ]
     },
@@ -196,8 +199,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 19时28分]"
         }
       ]
     }
