@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:50:41.959639+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-08-08T16:41:14.846076+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 15时50分]"
+          "appearance_count": 10,
+          "time_info": "[09时37分 ~ 16时41分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -32,8 +32,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时54分 ~ 15时50分]"
+          "appearance_count": 16,
+          "time_info": "[03时54分 ~ 16时41分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -103,11 +103,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时50分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时41分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -117,11 +118,12 @@
             6,
             12,
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时50分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时41分]"
         }
       ]
     },
@@ -159,11 +161,12 @@
             20,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 15时50分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 16时41分]"
         }
       ]
     }
