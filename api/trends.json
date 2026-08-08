@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-09T01:31:35.990099+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-08-09T02:37:41.964063+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
+          "url": "https://www.zhihu.com/question/2069133357099832441",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "OpenAI",
       "match_count": 1,
@@ -15,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时37分]"
         }
       ]
     }
