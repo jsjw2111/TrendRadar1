@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:30:01.692740+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-08-09T05:31:06.923711+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 04时30分]"
+          "appearance_count": 7,
+          "time_info": "[02时37分 ~ 05时31分]"
         }
       ]
     },
@@ -31,11 +32,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
+          "url": "https://flash.jin10.com/detail/20260809045524710800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
