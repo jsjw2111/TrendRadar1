@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T16:42:47.801616+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-08-09T18:35:16.264095+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
@@ -17,11 +17,12 @@
             11,
             12,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 18时35分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -35,6 +36,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时31分 ~ 09时43分]"
+        },
+        {
+          "title": "马斯克突然“唱多”自家公司",
+          "url": "https://www.toutiao.com/trending/7670931315927498771/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
