@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T18:35:16.264095+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-08-09T19:29:54.644666+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             12,
             16,
             17,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 18时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 19时29分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
