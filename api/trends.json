@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T11:43:13.103844+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-08-09T13:05:53.382312+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 13时05分]"
         },
         {
           "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
