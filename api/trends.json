@@ -1,96 +1,8 @@
 {
-  "generated_at": "2026-08-10T22:59:16.652690+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-08-11T00:04:28.071952+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "马斯克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马斯克，要颠覆EUV光刻机？",
-          "url": "https://wallstreetcn.com/articles/3779015",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 17时21分]"
-        },
-        {
-          "title": "马斯克的新挑战：给光刻机“换束光”",
-          "url": "https://www.cls.cn/detail/2450318",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时59分]"
-        },
-        {
-          "title": "马斯克或采用FEL技术挑战EUV光刻机",
-          "url": "https://flash.jin10.com/detail/20260810045558184800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时31分]"
-        },
-        {
-          "title": "如何看待马斯克评价SpaceX和特斯拉",
-          "url": "https://www.toutiao.com/trending/7672238666911059510/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        },
-        {
-          "title": "马斯克凭什么建全球最大的芯片厂",
-          "url": "https://www.toutiao.com/trending/7671960489291382810/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "马斯克的8000亿芯片梦会是灾难吗",
-          "url": "https://www.toutiao.com/trending/7672219771949026870/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "市场消息：加拿大安大略省教师养老金计划上半年收益率达9.5%，主要得益于马斯克旗下SpaceX(SPCX.O)公司的IPO。",
-          "url": "https://flash.jin10.com/detail/20260810204420102800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        }
-      ]
-    },
     {
       "keyword_group": "GPT",
       "match_count": 1,
@@ -100,49 +12,28 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时55分 ~ 22时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek为何重启融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "OpenAI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据The Information：微软认为，MAIA芯片能够以更低的成本运行其自主研发和OpenAI的模型。",
-          "url": "https://flash.jin10.com/detail/20260810210234815800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时07分"
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克的新挑战：给光刻机“换束光”",
+          "url": "https://www.cls.cn/detail/2450318",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     }
