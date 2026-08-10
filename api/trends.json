@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T15:40:42.140716+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-08-10T17:21:18.257881+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 17时21分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
@@ -78,11 +79,29 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 17时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何重启融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         }
       ]
     }
