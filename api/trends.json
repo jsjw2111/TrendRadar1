@@ -1,12 +1,74 @@
 {
-  "generated_at": "2026-08-12T00:03:29.852225+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-12T01:57:20.154601+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
+      "keyword_group": "Grok",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3148181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
+          "url": "https://flash.jin10.com/detail/20260812005839889800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "SpaceXAI：推出Grok Bot聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260812005621568800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3148172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
           "url": "https://wallstreetcn.com/livenews/3148137",
@@ -17,17 +79,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "马斯克：强烈推荐大家去中国看看",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
-          "source": "百度热搜",
+          "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
+          "url": "https://wallstreetcn.com/livenews/3148176",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时57分"
         }
       ]
     },
@@ -40,11 +108,46 @@
           "url": "https://www.zhihu.com/question/2070452772391194651",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 01时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenAI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
+          "url": "https://wallstreetcn.com/livenews/3148170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时57分"
         }
       ]
     }
