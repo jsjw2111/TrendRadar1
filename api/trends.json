@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-12T04:43:38.930398+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-08-12T05:46:51.216249+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，马斯克密友格拉西亚斯截至2026年6月30日持有SpaceX(SPCX.O)6.5%的被动股权。",
-          "url": "https://flash.jin10.com/detail/20260812042041712800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
@@ -26,11 +15,23 @@
             25,
             21,
             17,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时46分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，马斯克密友格拉西亚斯截至2026年6月30日持有SpaceX(SPCX.O)6.5%的被动股权。",
+          "url": "https://flash.jin10.com/detail/20260812042041712800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -127,11 +128,12 @@
           "url": "https://wallstreetcn.com/livenews/3148238",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时46分]"
         },
         {
           "title": "据Business Insider：消息人士称，前OpenAI首席产品官凯文·韦尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值。",
@@ -140,7 +142,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -214,11 +216,12 @@
             9,
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时46分]"
         }
       ]
     },
@@ -236,8 +239,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时46分]"
         }
       ]
     }
