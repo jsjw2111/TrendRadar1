@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T16:17:57.821651+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-08-12T18:05:45.414819+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 18时05分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，马斯克密友格拉西亚斯截至2026年6月30日持有SpaceX(SPCX.O)6.5%的被动股权。",
@@ -58,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 18时05分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -233,11 +233,12 @@
           "url": "https://www.zhihu.com/question/2070445459840000945",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 18时05分]"
         },
         {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
