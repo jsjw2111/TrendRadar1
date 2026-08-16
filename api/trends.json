@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T18:23:35.095667+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-08-16T19:20:50.953124+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时20分 ~ 18时23分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 19时20分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时00分 ~ 18时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时00分 ~ 19时20分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 19时20分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -127,11 +127,12 @@
             9,
             17,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -181,8 +182,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 19时20分]"
         }
       ]
     }
