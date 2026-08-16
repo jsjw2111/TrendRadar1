@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:39:58.418935+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-08-16T16:29:47.881665+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 14时39分]"
+          "appearance_count": 11,
+          "time_info": "[07时20分 ~ 16时29分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时00分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[11时00分 ~ 16时29分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -41,11 +41,12 @@
             6,
             7,
             12,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 16时29分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -56,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 16时29分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -131,11 +132,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时29分]"
         }
       ]
     },
@@ -169,11 +171,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 16时29分]"
         }
       ]
     }
