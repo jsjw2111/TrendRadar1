@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-19T09:13:16.031194+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-20T09:12:28.530234+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/jsjw2111/TrendRadar1/img/news.jpg"
 }
